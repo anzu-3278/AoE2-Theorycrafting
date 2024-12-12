@@ -105,7 +105,7 @@
  - This unit has a notable weakness to Winged Hussars due to its low hit points and the Winged Hussars' bonus damage. This is intended as a historical nod to the Polish-Lithuanian victory in the [Polish–Russian War (1609–1618)](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618)), during which they would briefly occupy Moscow, the only foreign power after the Mongol Empire to ever do so.
  - Approximate appearance:  
    - Based on the figure depicted on the right here:  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Russian_Strieltsy.JPG" alt="Streltsy" width="30%" height="auto" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Russian_Strieltsy.JPG" alt="Streltsy" width="30%" height="auto" /><br />
    - The yellow overcoat would change with player colour, while the details, including the undercoat, cap, cuffs, and bands would remain red. This is intended to provide visual distinctness, similarly to how the Berserk's orange beard and hair contrast with the colour of their capes, making them instantly recognizable in a crowd.
    - I think it would be an interesting detail to have their model show both their pollaxes and arquebuses - carrying the pollaxe in their hands and the arquebus over the shoulder when marching, and using the pollaxe to support the arquebus when shooting, but that might just be too much going on and could hurt visual distinctiveness. Alternatively, they could just carry their arquebuses the whole time, but the model should definitely display a sabre as a sidearm.
 
@@ -167,25 +167,25 @@
    - Not too dissimilar to the current Viking and Slavs wonders, but *more* so.
    - In addition to the Muscovites and Novgorodians (but not Ruthenians), this architecture set would be used by the current Vikings (or any of their splits), as well as any new civilizations representing Uralic peoples, such as Finns, Sámi, Vepsians, Mordvins, Permians, Estonians etc. 
    - I have found the example below in [a collection of paintings that are very clearly fantasy](https://nevsepic.com.ua/en/painting/34507-vedic-rus-by-vsevolod-ivanov-35-photos.html), but some of them embody an aesthetic that I think would fit very neatly with the history, as well as being very visually distinctive from other architecture sets.  
-   <img src="https://cp16.nevsepic.com.ua/post/46/705_files/128323ab7dfbbeb37fd64291a6d22782.jpg" alt="Perhaps looking a little something like this" width="500" height="auto" />
+   <img src="https://cp16.nevsepic.com.ua/post/46/705_files/128323ab7dfbbeb37fd64291a6d22782.jpg" alt="Perhaps looking a little something like this" width="500" height="auto" /><br />
    - A more historically grounded example: [The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov](https://rusmania.com/history-of-russia/14th-century)  
-   <img src="https://rusmania.com/perch/resources/moscow-kalita-vasnetsov.jpg" alt="The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov" width="500" height="auto" />
+   <img src="https://rusmania.com/perch/resources/moscow-kalita-vasnetsov.jpg" alt="The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov" width="500" height="auto" /><br />
 
  - Castle Skin
    - It is clear that for most of the time scope of this build, the Muscovites would have used primarily wooden fortifications, which is also referenced in the Detinets bonus. While most of the cost of Castles remains stone for gameplay purposes, aesthetically the sprite should be largely wooden.
    - The Age of Empires 2 idea of what a Castle should be - a single monolithic structure used for defence - is not something that all places in the world had, and Muscovite fortifications were primarily walls with ramparts and towers. Anything remotely Castle-like I could find was either significantly more modern, fake, actually built by the Teutonic Order or Sweden, or in the region that would be covered by the Novgorodians civilization. This makes sense, given how warfare in the steppe differed from the Baltics and Scandinavia.
    - As such, the Muscovites might be the first civ where an Age of Empires 2 alpha-style Castle sprite, with a clear interior courtyard surrounded by walls, might actually be justified, though with more appropriate wall and roof styles, as shown above regarding the architecture set:  
-   <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="500" height="auto" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="500" height="auto" />
+   <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="500" height="auto" /><br />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="500" height="auto" /><br />
    - Alternatively some creative liberties could be taken to make it look more like what an Age of Empires 2 player would expect a Castle to look like.
  - Wonder Skin:
    - [Cathedral of Saint Basil the Blessed](https://www.britannica.com/topic/Saint-Basil-the-Blessed)  
-   <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="auto" height="550" />
-   <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="auto" height="550" /> 
+   <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="auto" height="550" /><br />
+   <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="auto" height="550" /><br />
    - It is by far the most recognizable building in Russia, it has a very unique appearance and was completed within the AoE2 timeframe in 1561. It is evocative of the time period which this build focuses on, and could even feature in a Campaign scenario.
    - Alternatively, if one wanted to focus on an older period of Muscovite history, [Dormition Cathedral](https://ageofempires.fandom.com/wiki/Dormition_Cathedral) is already in the game as a scenario editor building, so that sprite could be used. However, I think this style of cathedral is better suited as a Wonder for the [Novgorodians](https://www.youtube.com/watch?v=aDDo0P-djQ0&t=615s).  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Dormition_Cathedral%2C_Moscow.jpg" alt="Dormition Cathedral Moscow" width="auto" height="550" />
-   <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="auto" height="550" />
+   <img src="https://thumbs.dreamstime.com/b/dormition-cathedral-also-known-as-assumption-russian-orthodox-church-dedicated-to-theotokos-located-square-99836403.jpg" alt="Dormition Cathedral Moscow" width="auto" height="550" /><br />
+   <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="auto" height="550" /><br />
 
 ## Language: Middle Russian
 
@@ -214,8 +214,8 @@
 ## Sigil
 
  - The [Coat of Arms of Moscow](https://en.wikipedia.org/wiki/Coat_of_arms_of_Moscow) features an image of Saint George slaying a dragon.  
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Moscow.svg" alt="Coat of arms of Moscow" width="350" height="400" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_arms_of_Moscow_Oblast_%28large%29.svg" alt="Coat of arms of Moscow" width="350" height="400" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Coat_of_arms_of_Moscow.svg" alt="Coat of arms of Moscow" width="350" height="400" /><br />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_arms_of_Moscow_Oblast_%28large%29.svg" alt="Coat of arms of Moscow" width="350" height="400" /><br />
  - While official only from the 16th century, Moscow has been associated with Saint George for centuries by that point.
  - It may be slightly elaborate for an AoE2 sigil, a simplified version could be used as a sigil.
  - Alternatively, it could be simplified even further to just depict a spear pointing downwards, with a Russian Orthodox Cross on top, like in the latter version above. A very bad artist's impression:  
@@ -243,7 +243,7 @@
 ## Summary
 
  - The Muscovites feel like a civilization playing which you will never have a dull moment - raiding, securing the map, microing squishy Streltsy against Mangonels, or your own cheap Mangonels against enemy Crossbows, and getting the most out of your Scouts from both a military and an economic viewpoint - all requires a lot of attention, but can also be rewarding, and I think this civ will have a decently high skill ceiling. 
- - Muscovites exhibit some similarities to the Mongols, with powerful early games due to hunt and scouting bonuses, as well as a Cavalry and Siege focus, and Cumans, with an obvious and strong game plan that the enemy needs to react to to avoid being at a disadvantage, both of which are fitting given their history. All three are also Lancer civilizations with strong Scout openings. They also have similarities to the Turks due to their significant reliance on gold units, though the Muscovite Pikeman and Skirmisher are nowhere near as weak as the Turkish.
+ - Muscovites exhibit some similarities to the Mongols, with powerful early games due to hunt and scouting bonuses, as well as a Cavalry and Siege focus, and Cumans, with an obvious and strong game plan that the enemy needs to react to to avoid being at a disadvantage, both of which are fitting given their history. All three are also Lancer civilizations with strong Scout openings. They also have similarities to the Turks due to their significant reliance on gold units and gunpowder unique unit available in Castle Age, though the Muscovite Pikeman and Skirmisher are nowhere near as weak as the Turkish.
  - The Muscovites' main strengths are that they can play both greedy and offensive early games very effectively, giving them a lot of flexibility by late Feudal or early Castle Age.
  - The Muscovites' main weaknesses are that they are quite dependent on gold for many of their strongest options, including their primary ranged options - the Strelet, Heavy Cavalry Archer and Bombard Cannon. With no long-term eco bonus, and only discounted siege without Siege Engineers, which will have limtied effectiveness against units in trash wars, you need to do damage to your enemy, so the pressure is on from the moment the game starts. 
 
