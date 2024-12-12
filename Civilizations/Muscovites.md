@@ -167,25 +167,25 @@
    - Not too dissimilar to the current Viking and Slavs wonders, but *more* so.
    - In addition to the Muscovites and Novgorodians (but not Ruthenians), this architecture set would be used by the current Vikings (or any of their splits), as well as any new civilizations representing Uralic peoples, such as Finns, Sámi, Vepsians, Mordvins, Permians, Estonians etc. 
    - I have found the example below in [a collection of paintings that are very clearly fantasy](https://nevsepic.com.ua/en/painting/34507-vedic-rus-by-vsevolod-ivanov-35-photos.html), but some of them embody an aesthetic that I think would fit very neatly with the history, as well as being very visually distinctive from other architecture sets.  
-   <img src="https://cp16.nevsepic.com.ua/post/46/705_files/128323ab7dfbbeb37fd64291a6d22782.jpg" alt="Perhaps looking a little something like this" width="500" height="auto" /><br />
+   <img src="https://cp16.nevsepic.com.ua/post/46/705_files/128323ab7dfbbeb37fd64291a6d22782.jpg" alt="Perhaps looking a little something like this" width="550" height="auto" /><br />
    - A more historically grounded example: [The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov](https://rusmania.com/history-of-russia/14th-century)  
-   <img src="https://rusmania.com/perch/resources/moscow-kalita-vasnetsov.jpg" alt="The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov" width="500" height="auto" /><br />
+   <img src="https://rusmania.com/perch/resources/moscow-kalita-vasnetsov.jpg" alt="The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov" width="550" height="auto" /><br />
 
  - Castle Skin
    - It is clear that for most of the time scope of this build, the Muscovites would have used primarily wooden fortifications, which is also referenced in the Detinets bonus. While most of the cost of Castles remains stone for gameplay purposes, aesthetically the sprite should be largely wooden.
    - The Age of Empires 2 idea of what a Castle should be - a single monolithic structure used for defence - is not something that all places in the world had, and Muscovite fortifications were primarily walls with ramparts and towers. Anything remotely Castle-like I could find was either significantly more modern, fake, actually built by the Teutonic Order or Sweden, or in the region that would be covered by the Novgorodians civilization. This makes sense, given how warfare in the steppe differed from the Baltics and Scandinavia.
    - As such, the Muscovites might be the first civ where an Age of Empires 2 alpha-style Castle sprite, with a clear interior courtyard surrounded by walls, might actually be justified, though with more appropriate wall and roof styles, as shown above regarding the architecture set:  
-   <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="500" height="auto" /><br />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="500" height="auto" /><br />
+   <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="550" height="auto" /><br />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="550" height="auto" /><br />
    - Alternatively some creative liberties could be taken to make it look more like what an Age of Empires 2 player would expect a Castle to look like.
  - Wonder Skin:
    - [Cathedral of Saint Basil the Blessed](https://www.britannica.com/topic/Saint-Basil-the-Blessed)  
-   <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="auto" height="550" /><br />
-   <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="auto" height="550" /><br />
+   <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="550" height="auto" /><br />
+   <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="550" height="auto" /><br />
    - It is by far the most recognizable building in Russia, it has a very unique appearance and was completed within the AoE2 timeframe in 1561. It is evocative of the time period which this build focuses on, and could even feature in a Campaign scenario.
    - Alternatively, if one wanted to focus on an older period of Muscovite history, [Dormition Cathedral](https://ageofempires.fandom.com/wiki/Dormition_Cathedral) is already in the game as a scenario editor building, so that sprite could be used. However, I think this style of cathedral is better suited as a Wonder for the [Novgorodians](https://www.youtube.com/watch?v=aDDo0P-djQ0&t=615s).  
-   <img src="https://thumbs.dreamstime.com/b/dormition-cathedral-also-known-as-assumption-russian-orthodox-church-dedicated-to-theotokos-located-square-99836403.jpg" alt="Dormition Cathedral Moscow" width="auto" height="550" /><br />
-   <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="auto" height="550" /><br />
+   <img src="https://thumbs.dreamstime.com/b/dormition-cathedral-also-known-as-assumption-russian-orthodox-church-dedicated-to-theotokos-located-square-99836403.jpg" alt="Dormition Cathedral Moscow" width="550" height="auto" /><br />
+   <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="550" height="auto" /><br />
 
 ## Language: Middle Russian
 
