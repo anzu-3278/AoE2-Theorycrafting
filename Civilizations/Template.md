@@ -61,11 +61,19 @@
 
 ### Unique Unit Name
 
+ - Unit Description
  - Unit Cost
  - Building from which the unit is trained, if not the Castle
  - Age availability, if not Castle Unique Unit
  - Non-Elite Unit Stats
    - Hit Points
+   - Damage and damage type
+   - Range, if not 0
+   - Accuracy if ranged
+   - Reload time
+   - Effect given by Thumb Ring, if any
+   - Attack delay
+   - Projectile speed, if ranged
    - Melee and Pierce Armor
    - Armor of any other type
    - ...
@@ -73,7 +81,7 @@
    - Line of Sight
    - Train Time
    - Bonus damage against any armor type
-   - Bonus damage against any other armor type
+   - ...
    - Special trait
    - ...
  - Elite Upgrade cost
