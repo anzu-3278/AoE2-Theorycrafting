@@ -2,17 +2,26 @@
 
 ### A Siege and Defensive civilization
 
+## Goals
+
  - My goal here was to workshop a realistic split of the current Slavs civilization. This civilization would be one of the primary civilizations to be covered by this, and is loosely inspired by RobbyLAVA's idea for the Muscovites (as attested in [How much can AoE2 split the SLAVS?](https://www.youtube.com/watch?v=blHK7Q8lChI)), that I later expanded on in my contribution to [My Discord Server designs an AOE2 DLC... Blind (Exquisite Corpse #2)](https://www.youtube.com/watch?v=rgsbxVjbPxk).
  - My starting idea was that this civ should expand across the map quickly and have ways to keep control over vast swaths of territory. I expanded this to a broad gunpowder affinity, to differentiate them from other Slavs split civilizations. Finally, I wanted a tertiary accent on trade, as Moscow grew to early prominence largely as a hub of trade. These three would work together to create a civ that would expand across the map early and strongly.
+
+ ## Scope
+
  - **This civilization is intended to very generally represent the northern East Slavic states that eventually coalesced to form the modern state of Russia.** More specifically, I would specify the inclusion of states that were conquered and ruled by the Mongols. This is specifically to exclude the Ruthenians, a future build which would be based on the Kievan Rus and the cultures that would evolve into the modern state of Ukraine, which spent more time under Lithuanian and later Polish-Lithuanian influence, and also to exclude the Republic of Novgorod, which was naturally quite different to Muscovy due to not being subjugated by the Mongols, being a republic, and operating largely in the Scandinavian cultural and economic sphere, in addition to the East Slavic one. This is, however, intended to encompass more minor East Slavic states like Tver, Yaroslavl, Rostov, Ryazan, Smolensk and others which would largely overlap with the Muscovite civilization.
  - As such, the history that I draw inspiration from will largely be from the Late Medieval and Early Modern periods, starting with the rise of Moscow as a trade hub in the 13th century and concluding with the end of the AoE2 time period (1600) just as Russia was expanding into Siberia.
+ - I have not consulted, and am not even aware of any current builds for a Russian or Muscovite civilization.
+
+ ## Name
+
+
  - A more obvious civilization name for this civilization might be **The Rus** or just **Rus**, but I decided against it for a few reasons.
    - Primarily, it is not specific enough - the term Rus would refer to almost the entire East Slavic civilization as it is currently represented by the Slavs civilization, so while it would be a better name for that, it represents too wide a cultural umbrella for the scope of this build.
    - Additionally, it is a culturally contentious term in modern times, due to differing historical interpretations of its legacy and its implications for modern nations. Consider why *Teutons* was used instead of *Germans*, *Franks* instead of *French*, *Saracens* instead of *Arabs*, even with civilizations with much more clear-cut scope boundaries.
  - Another potential alternative name could have been **Russians**, which would at least only hit the first of the three reasons mentioned above, as well as having more pop-culture recognizability.
    - If the civ's scope had included both the Muscovites and Novgorod as outlined above, I might have considered this.
    - However, this name would, for lack of a better phrase, treat history as inevitable, by applying a term with a modern recontextualized meaning to a medieval setting.
- - I have not consulted, and am not even aware of any current builds for a Russian or Muscovite civilization.
 
 ## Civilization Bonuses
 
@@ -20,9 +29,9 @@
    - Hunters deposit additional gold equal to 20% of the food being deposited.
    - Scouts and Cavalry Archers can gather from huntable animals, with 2x the carry capacity of a Villager.
    - This is largely a callback to the Age of Empires 4 version of the Rus, which have a similar bonus.
-   - While not unique among fur trading centers, the prevalence and volume of fur trading in the region provides some historical justification to the bonus.
+   - While not unique among fur trading centers, the prevalence and volume of fur trading in the region provides some historical justification to the bonus. Fur trading was one of the first institutions implemented in newly conquered territories as Muscovy/Russia expanded eastward.
    - This is intended to provide the Muscovites with a strong Dark Age and encourage either drushing or encourage Feudal Scout play.
-   - This will provide around 200 gold in a typical Dark Age, which is on par with bonuses like the Portuguese, Japanese, Ethiopians and others. However, given that it's gold, it provides the potential for an extended Militia rush or Man At Arms rush, or Fast Castling without needing to build a Mining Camp.
+   - This will provide around 200 gold in a typical Dark Age, which is on par with bonuses like the Portuguese, Japanese, Ethiopians and others. Given that it’s gold, it provides the potential for an extended Militia rush or Man At Arms rush, or Fast Castling without needing to build a Mining Camp. However, unlike these other similar bonuses, it does not provide economic benefit, since eco upgrades don’t cost gold - it must be used aggressively.
  - **Detinets**
    - 40% of the stone cost of Castles and Towers is replaced with wood.
    - This is a straight port of the [current Slavs unique tech](https://ageofempires.fandom.com/wiki/Detinets).
@@ -67,7 +76,8 @@
  - Cavalry Archers can be trained at Castles.
  - As Muscovy expanded into the territories of the Golden Horde, they had absorbed massive populations of Cumans, Tatars and other Turkic peoples. The import and utilization of nomadic style warfare and exploration would allow Russia to rapidly expand south to the Caspian and east into Siberia, with small elite cavalry corps maintaining control across the vast territories.
  - Gameplay wise, this is intended to remove a key weakness of the current Slavs design, namely that they have no good ranged options at all other than maybe Scorpions. I intended to design the Muscovites around lacking Bracer as well, but having at least decent ranged options to supplement their strong cavalry.
- - This is by all means a tradeoff rather than a strict bonus, and at 100 gold each this will not be worth it every game, but playing to your strengths and maintaining map control with Castles all over the map will let you keep your precious numbers alive by garrisoning.
+ - This is by all means a tradeoff rather than a strict bonus, and at 100 gold each this will not be worth it every game, but playing to your strengths and maintaining map control with Castles all over the map will let you keep your precious numbers alive by garrisoning. Utilizing Tatar Cavalry Archers to control patrol a map laden with fortifications guarding your trade routes will be very historically appropriate.
+ - Yes, these are intended to be stat-wise equivalent to fully upgraded Tatar Cavalry Archers.
 
 ## Unique Units
 
@@ -126,7 +136,7 @@
    - Missing Camel Rider line.
    - Missing Paladin.
      - While Muscovy and the Russian world writ large did use heavy cavalry, it was substantially different to the western European style of cavalry that the Paladin represents.
-     - Gameplay considerations also played a role here - Paladins with Oprichnina would be downright broken, but I didn't want to dilute its effect or restrict it to just the Scout line.
+     - Gameplay considerations also played a role here - Paladins with Oprichnina would be downright broken, but I didn’t want to dilute its effect or restrict it to just the Scout and Lancer lines.
  - Siege Workshop
    - Missing Siege Ram.
    - Missing Siege Onager.
@@ -135,7 +145,10 @@
  - Monastery
    - Missing Heresy.
      - Muscovy was an Orthodox Christian realm far from the schisms and heresies of medieval Europe. Its Boyars were known to switch sides in internal conflicts.
+     - In gameplay terms, this would keep Monks as a vulnerability against their very strong heavy cavalry, and would require the use of Cavalry Archers or Strelets to effectively snipe Monks.
    - Missing Atonement.
+     - Again, the Orthodox Christian church of Muscovy was far removed from any heresies and had no need to convert heretics, just heathens.
+     - In gameplay terms, this is to keep Monks good against siege by having Block Printing, but not having the option to counter enemy Monk play with your own Monks. This is also somewhat intended to discourage mass Monks alongside heavy cavalry.
  - Castle
    - Missing Hoardings.
      - I was going for a quantity over quality approach in the Muscovites' forward defensive playstyle.
@@ -218,7 +231,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Coat_of_arms_of_Moscow_Oblast_%28large%29.svg" alt="Coat of arms of Moscow" width="350" height="400" /><br />
  - While official only from the 16th century, Moscow has been associated with Saint George for centuries by that point.
  - It may be slightly elaborate for an AoE2 sigil, a simplified version could be used as a sigil.
- - Alternatively, it could be simplified even further to just depict a spear pointing downwards, with a Russian Orthodox Cross on top, like in the latter version above. A very bad artist's impression:  
+ - Alternatively, it could be simplified even further to just depict a spear pointing downwards, with a Russian Orthodox Cross on top, like in the latter version above.  
+ A very bad artist's impression:  
  ![Admire my MS Paint skills](Muscovites-sigil-sketch.png)
 
 ## Jingle
@@ -226,6 +240,87 @@
  - In my opinion, the current Slavs theme is not particularly evocative of Slavic aesthetics, and particularly in Russia where traditional music was largely vocal.
  - I think [this](https://www.youtube.com/watch?v=jve6HqYHwaY&t=244s) (4:04-9:11, starting timestamp in link) is a much better example, with typically Russian characteristics, such as repeating phrases, vocal exclamations, whistling and flutes.
  - This would also make it very unique and distinctive among other AoE2 civilization jingles, since currently no others feature female vocals, as well as breaking the stereotype that Russian music (particularly traditional Russian music) is always very male and dour.
+
+ ## Campaign: Ivan the Terrible
+
+ - I think there is no other realistic contender for the campaign protagonist. He held the Muscovite/Russian throne for a total of 51 years, created many of the institutions that defined the Muscovite state and this build, like the Streltsy and the Oprichnina, expanded the state significantly and cemented the Moscow as the center of the Russian world for centuries to come. A campaign based on his reign would showcase every part of this build.
+
+ ### 1. The Keys To Power
+ 
+  - The first scenario would be an aggregated representation of the events of his early reign, it would showcase him consolidating power, introduce the setting, any recurring characters and long term goals, and serve as a comparison to use at the end of the campaign when Moscow is fully ascendant.
+  - This scenario could feature a sidequest where you establish the Streltsy, unlocking your unique unit. Regardless of whether you do it, you would have them available in later scenarios, but they would prove useful to have here.
+  - This scenario could feature Novgorodians and Ruthenians as minor Russian factions for diversity, and Tatars or Lithuanians or any of the aforementioned Uralic civs as a showcase, given that the scenario is not really based on any one event.
+
+### 2. The Rule of Blood
+
+ - The second scenario would feature the conquest of Kazan and the first true expansion of a Russian state into the former Mongol empire. This would be a showcase the Muscovite siege bonus and cavalry. You would need to siege and conquer the city, in a similar manner to [The Protectorate](https://ageofempires.fandom.com/wiki/The_Protectorate), but on a much more open map and without the option to build walls of your own.
+ - Following the fall of the city, guerrilla activities will continue, while you need to integrate the territories into your realm. The way I imagine this being implemented is:
+   - The city and surrounding countryside are transferred to your ally.
+   - You need to trade some amount of gold between your Market in a distant corner of the map (representing trade to Moscow offmap).
+   - You need to maintain a loyalty meter above a specific value.
+   - Loyalty goes up as you repair the buildings of your ally and as gold gets traded, representing the prosperity and stability you bring to the realm.
+   - Loyalty goes down as you kill enemy units, representing the harsh realities of ruling people who do not want to be ruled, and the connections between the civilian population who you want to keep loyal and the guerillas who are making that difficult.
+   - Loyalty goes down as you build your own buildings in the conquered territory, representing the resistance of the population towards foreign settlement, with fortifications lowering loyalty significantly more.
+   - If loyalty is low, parts of the city and countryside can change hands from your ally to your enemy, forcing you to reconquer them, doing even more damage that will need to be repaired and killing more units that will drive loyalty even lower.
+   - This is intended to represent the reprisals against the conquered population and the difficulty of rule in the face of rebellion, where even with the best of intentions, blood gets spilled.
+ - This scenario would feature the Tatars as Kazan, and possibly Cumans or Mongols and an Uralic civ as minor factions for some diversity.
+
+### 3. The Iron Fist
+
+ - The third scenario would be focused on internal issues, the abdication and move to absolute rule, and the creation of the Oprichnina. This could be a scenario conceptually similar to [The Fruits of Empire](https://ageofempires.fandom.com/wiki/The_Fruits_of_Empire), where you manage and eventually crush your unruly vassals, possibly with a sidequest to establish the Oprichnina, unlocking your Castle Age UT for the first time. The Cathedral of Saint Basil the Blessed was also built during this time and could feature here, either as something you need to build or defend.
+ - This scenario would mainly feature Muscovites and Novgorodians (Novgorod is part of the Muscovite state at this point) and possibly Ruthenians or Tatars as minor factions.
+
+### 4. Keep Your Friends Close
+
+ - The fourth scenario would feature the Sack of Novgorod and the Livonian War more broadly.
+ - It would see us start with a small base and allied to Novgorod, which has a large city and multiple small holdings, all in the easternmost corners of the map.
+ - The bulk of the map would be made of the territories of the Livonian Confederation, with the southwest taken up by Polish-Lithuanian forces and the north and west by Swedish ones, separated from us by the Baltic Sea.
+ - Ivan would have a head start in invading Livonia, but Poland-Lithuania and Sweden would attack us (and maybe each other) not too long after, emphasizing the importance of keeping them out of our engagements with the Livonians, which, being represented by Teutons, already have a defensive advantage.
+ - Ivan feared that Novgorod would defect to Poland-Lithuania, and as such defeating them would ensure that this does not happen. Alternatively, an option could be presented to ally with them against the Swedes and Livonians. Depending on some factors, such as how much of Livonia they end up controlling, they could then betray us.
+ - Muscovites have a middling navy, whereas Swedes have a great one. Given how much of the map is available from the sea, we would have the option to give resources to Novgorod to have them build a navy for us to use. This would, however, feed into Ivan's paranoia about the Novgorodian boyars plotting against him, as well as strengthen them if they do end up as our enemy.
+ - Depending on how the scenario plays out, Novgorod can defect to Poland-Lithuania, or Ivan's paranoia can get to him and he will attack them once the other factions are defeated. I am still on the fence on whether sacking Novgorod would be avoidable.
+ - Keeping Novgorod loyal enough and weak enough should be a balancing act. This can perhaps be achieved through a mechanic where we can give them recently conquered Livonian holdings.
+ - This scenario would feature Novgorodians as Novgorod, Vikings or a split of theirs as Swedes, Teutons as the Livonian Confederation, and Poles and Lithuanians as factions representing the Polish-Lithuanian Commonwealth.
+
+### 5. The Vast Expanses
+
+ - The fifth scenario would be set in two parts.
+ - In the first, we see Ivan venture south again to conquer Astrakhan and reach the coast of the Caspian sea, while defending your cities from Crimean Tatar raids on a large and open map. The conquest is fairly straightforward, and would unlock your Imperial Age UT. However, you are on a timer to finish this conquest in order to have your army ready to travel north for the events of scenario #4, being defeated if you take too long. Then, your army would disappear to go north, and you will be left with the remaining time to build up your fortifications against future Crimean raids.
+ - In the second part of the scenario, the Ottomans besiege Astrakhan by land and Azov by sea, while Crimean Tatars venture north towards Moscow. You must drive the Ottomans from the map to end their support for the Crimean Tatars, and destroy the Crimean horde rampaging through your economy.
+ - This will test the Muscovite capacity to hold large swaths of a map with their cheap fortifications and strong cavalry. Mobility will be key and you will not be able to save every city - historically, the Tatars almost made it to Moscow before being defeated - knowing where to hold and where to give in will be important.
+ - This scenario would feature Mongols as Astrakhan, Tatars as the Crimean Tatars, Turks as the Ottoman Empire, and perhaps Cumans or another new civ like Circassians as minor factions.
+ - If using Grand Campaign style information transfer between scenarios, then the amount of troops you get in the second part, and the time you get them, can be affected by some factors from the previous scenario.
+ - This will slightly echo the siege of Stalingrad during the Second World War, where the Russians also faced an overwhelming and more mobile foe. The city, then recently founded as Tsaritsyn, will feature in the scenario.
+
+### 6. The Great Unknown
+
+ - The sixth scenario would showcase the conquest of Siberia by Yermak Timofeyevich, which would be only the [second time](https://ageofempires.fandom.com/wiki/Drake) that Age of Empires 2 stole a scenario setting from [an Age of Empires 3 historical battle](https://ageofempires.fandom.com/wiki/Chuvash_Cape). You would start with Yermak as a hero and and a limited force of cavalry and would need to conquer your initial base before expanding further. You will get some villagers but cannot build anything other than military buildings. An AI ally will spawn in and will build small towns and villages in areas that you have secured and will then send you resources. You must build a series of forts across Siberia and will win when your ally has finished building all of their bases - losing progress if you fail to defend them from the constant raids. With limited resources and a huge map, you will need to depend on your Cavalry and newly minted Tatar Mercenary Cavalry Archers to supplement your Castles when defending your ally.
+ - This scenario will feature the Muscovites for your settlers, Tatars for a main enemy that will raid you, Huns as the Yeniseans (obviously) as a secondary enemy that will raid you in a different part of the map, the Mongols as a third enemy that will raid you in the last part of the map, and could maybe feature a small Chinese outpost at the far end of the map for flavor or a sidequest.
+ - Ivan the Terrible dies in 1584 around the time of the conquest of Siberia, so this would be fitting as a last scenario. However…
+
+### 7. The Time of Troubles (Bonus)
+
+ - While no AoE2 campaign other than William Wallace and the Battle For Greece Grand Campaign has more than 6 scenarios, Star Wars Galactic Battlegrounds does something interesting in a few of their campaigns, having possible bonus scenarios after the end of the proper campaign that can venture slightly into alternative history (e.g. the [Empire winning at Endor](https://swgb.fandom.com/wiki/The_Battle_of_Endor), or the [Rebel Alliance sieging Coruscant](https://swgb.fandom.com/wiki/The_Taking_of_Coruscant)). Several, however, have the final scenario take place after the death of the protagonist, with a secondary character working to maintain their legacy ([Prithviraj](https://ageofempires.fandom.com/wiki/The_Legend_of_Prithviraj), [Joan of Arc](https://ageofempires.fandom.com/wiki/A_Perfect_Martyr)..).
+ - As such, a “bonus” scenario featuring Ivan's son, Feodor Ivanovich, and the Time of Troubles might be appropriate. Narratively, it would serve as a bookend to the campaign, returning to Moscow, perhaps to the same map we had in scenario 1 or scenario 3, but this time all built up, representing all we have accomplished over the course of the campaign and how Muscovy has truly become Russia - imagine the difference between [Atlantis Reborn](https://ageofempires.fandom.com/wiki/Atlantis_Reborn) and [Atlantis Betrayed](https://ageofempires.fandom.com/wiki/Atlantis_Betrayed) in The New Atlantis campaign for Age of Mythology.
+ - Except, we are not playing as Feodor Ivanovich. We are playing as one of a number of different Boyars (in a manner similar to [Nobunaga](https://ageofempires.fandom.com/wiki/Nobunaga)), starting out as loyal vassals, but secretly vying to take the throne. This could play out in any number of ways, either seizing the throne from the inept tsar directly, and then securing your rule, or waiting for him to die and taking control more diplomatically. This would have some similarities to [Robert](https://ageofempires.fandom.com/wiki/Robert), but in this case I would make at least some conflict inevitable - the other Boyars also have the same goals as you, after all, rather than being just passive players.
+ - This scenario would feature primarily Muscovites and Novgorodians, with possibly one minor Ruthenian faction, and Poles and Vikings (or one of their splits) representing Polish and Swedish interventions if there isn’t a clear winner by some time. These interventions would technically be representing events beyond 1600, but this is a “bonus” scenario dealing in alternative history anyway, so I’m not particularly concerned with that.
+
+ ### Potential for a Grand Campaign
+
+  - An expansion featuring Muscovites, Ruthenians and Novgorodians would be well suited to have a Grand Campaign, since the three civilizations all had their zenith at different times, and a story could be told of the evolution of the Rus, from Rurik to Romanov, following the rise and fall of these three powers.
+    1. A prologue scenario, playing as the Vikings, led by Rurik, exploring this strange new eastern land, with many sidequests and ways to obtain a base - in the style of [Ragnar](https://ageofempires.fandom.com/wiki/Ragnar), [Finehair](https://ageofempires.fandom.com/wiki/Finehair), [Ironside](https://ageofempires.fandom.com/wiki/Ironside) or [Honfoglalas](https://ageofempires.fandom.com/wiki/Honfoglal%C3%A1s_(Definitive_Edition)), mixing RPG elements into the RTS gameplay. This is intended to set the scene for the story of the following scenarios.
+    2. A set of scenarios playing as the Ruthenians, set between the 9th and the 11th century, showcasing the establishment of the Kievan Rus, their conflicts with the Pechenegs, their ties to the Byzantine Empire, culminating with the death of Yaroslav I.
+    3. A set of scenarios about the Republic of Novgorod, with a particular showcase of Alexander Nevsky and conflicts with the Baltic Crusaders, Finns, and Swedes, culminating in defending the city from both Lithuania and Muscovy.
+    4. The aforementioned campaign centered on Ivan the Terrible.
+
+### Narrator
+
+ - While there are many options for a narrator which would make sense, I have a specific proposal.  
+ I would frame this as a father talking to his son about the history of their people, similarly set as the narration in [Yodit](https://ageofempires.fandom.com/wiki/Yodit#Definitive_Edition_). The son would occasionally ask questions which could be used as foreshadowing in the upcoming scenario.   
+ At first, the storytelling can be vague, even fairy tale like ("Once upon a time, there was a great warrior called Rurik"), but then slowly becoming more invested or even providing opinion ("Those perfidious Swedes came back"). The narration should imply that the storyteller is at the very least not a neutral figure.  
+ After the final (bonus) scenario, the narrator would reveal to his son that that is how their ancestors came to power, revealing that this is a tsar talking to his young heir.  
+ The closing lines would be something like "It's time to sleep now, young tsarevich. The road to Yekaterinburg is long, and you will need your strength to apply these lessons when one day you rule our people.", heavily implying that the narrator is Nicholas II Romanov, the last Tsar of Russia, talking to his young and sickly son Alexei, days or even hours before they would be killed by the Bolsheviks, ending the Russian Empire for good.
+ - I think this would do a good job of connecting us in the present with the story being told through this campaign, given how recent its echoes really are.
 
 ## Game Plan
 
