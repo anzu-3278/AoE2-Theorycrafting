@@ -53,6 +53,7 @@
    - Over its history, Palestine has seen many different populations settle and use immigration to establish control, from the time the ancient Israelites arrived in what was then known as Canaan, up to the modern day.
  - **Ziyar**
    - Mangonel line units' damage increased against ships by 25%, all other units increased by 10%.
+   - Mangonel projectile speed increased by 20%.
    - The Ziyar was a torsion-powered siege engine widely used in the Muslim world.
    - The motivation for the bonus here is primarily gameplay oriented, since this build lacks punch in early Castle Age when the impact of **Olive Groves** is diminishing, but **Pilgrims** has not yet had an effect. This will give the player a distinct advantage in early Mangonel wars, as well as increase their versatility into the late game.  
    - Most importantly it will help players bridge the skill gap necessary to trade by effectively increasing the hit radius sufficient to one-shot an enemy Mangonel or group of Crossbows. With these fights hinging on a few hit points, the damage only being increased by 10% is intended to make all the difference there, rather than make Mangonels viable against Towers or cavalry or something else.  
