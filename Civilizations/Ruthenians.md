@@ -118,7 +118,7 @@
    - 7 Line of Sight
    - Trained in 16 seconds
  - I imagine the sprite looking a bit like the current William Wallace model, with a cape and a broadsword. The Kyivan Rus are known to have used one-sided swords, making area damage a sensible effect for it to have.  
- ![](https://static.wikia.nocookie.net/ageofempires/images/5/5f/William_Wallace_DE_views.png/revision/latest)
+ <img src="https://static.wikia.nocookie.net/ageofempires/images/5/5f/William_Wallace_DE_views.png/revision/latest" alt="Potential Izgoi appearance" width="550" height="auto" /><br />
  - Izgoi is a term used in the Kyivan Rus for princes who were excluded from the succession. Due to a unique succession system in the Kyivan Rus, a prince could not inherit a throne not previously held by his father or older brother, and the crown often passed from brother to brother rather than father to son (agnatic seniority). This left a lot of noble sons without any prospect of inheritance. 
  - These disenfranchised princes would then commonly scheme against their uncles and cousins to claim their titles, or any other ones instead, as represented by their bonus against stone defences. Fighting as rebel factions or mercenary groups, they would gather a host around them (a **Druzhina**), and take sides in the many dynastic conflicts and succession crised that plagued the Kyivan Rus.
  - This unit will behave largely in the same way as a slightly stronger swordsman. However, the additional food cost would not be entirely justified by the stats - compared to a Champion, they have +10HP, -1 damage, +1 melee armor, +4 bonus damage against stone defences - instead, the additional cost is intended to account for the boost they get after **Bogatyrs** and **Druzhina**.
@@ -176,12 +176,12 @@
 ## Architecture: Eastern European
 
  - Castle Skin: [Golden Gate of Kyiv](https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv)
-   - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/1920px-Golden_Gate_Kiev_2018_G1.jpg)
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/1920px-Golden_Gate_Kiev_2018_G1.jpg" alt="Golden Gate of Kyiv" width="550" height="auto" /><br />
    - It was built in the 11th century, right in the middle of the scope of this build.
    - One of the original gates of the city constructed by Yaroslav the Wise, constructed in imitation of the Golden Gate of Constantinople, it is the most prominent and unique fortification of the Kyivan Rus.
    - The only knock against it could be that it might look too much like a Wonder with the cupola and cross on top, so maybe some artistic liberty could be taken to tone those down in the Castle sprite.
  - Wonder Skin: [Saint Sophia Cathedral in Kyiv](https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv)
-   - ![](https://upload.wikimedia.org/wikipedia/commons/6/61/80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg)
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_%28cropped%29.jpg" alt="Saint Sophia Cathedral in Kyiv" width="550" height="auto" /><br />
    - It's the most recognizable landmark in Kyiv and one of the grandest cathedrals in the region.
    - It was built in the 11th century, right in the middle of the scope of this build.
    - It is basically guaranteed to feature in any reasonable Ruthenian campaign.
