@@ -2,12 +2,27 @@
 
 ### Civilization Blurb
 
+## Goals
+
  - Design goals and approach
  - Starting ideas
+
+## Scope
+
  - Civilization scope
- - Alternative Civilization Names
  - Other builds consulted
  - Other design related notes
+
+ ## Name
+
+ - Chosen name source
+ - Chosen name justification
+ - Alternative Civilization Names
+
+## Existing campaign appearances
+
+ - [Campaign Name #number: Scenario Name]() - Faction Name
+ - ...
 
 ## Civilization Bonuses
 
@@ -228,6 +243,8 @@
    - Note
    - ...
  - ...
+ - Monastery, if different from architecture set
+ - Monk
  - If Architecture Set is not a currently existing one, note on design, aesthetic, distinctiveness and recognizability
  - ...
 

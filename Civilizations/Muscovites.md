@@ -15,13 +15,21 @@
 
  ## Name
 
-
  - A more obvious civilization name for this civilization might be **The Rus** or just **Rus**, but I decided against it for a few reasons.
    - Primarily, it is not specific enough - the term Rus would refer to almost the entire East Slavic civilization as it is currently represented by the Slavs civilization, so while it would be a better name for that, it represents too wide a cultural umbrella for the scope of this build.
    - Additionally, it is a culturally contentious term in modern times, due to differing historical interpretations of its legacy and its implications for modern nations. Consider why *Teutons* was used instead of *Germans*, *Franks* instead of *French*, *Saracens* instead of *Arabs*, even with civilizations with much more clear-cut scope boundaries.
  - Another potential alternative name could have been **Russians**, which would at least only hit the first of the three reasons mentioned above, as well as having more pop-culture recognizability.
    - If the civ's scope had included both the Muscovites and Novgorod as outlined above, I might have considered this.
    - However, this name would, for lack of a better phrase, treat history as inevitable, by applying a term with a modern recontextualized meaning to a medieval setting.
+
+## Existing campaign appearances
+
+ - [Genghis Khan #4: The Horde Rides West](https://ageofempires.fandom.com/wiki/The_Horde_Rides_West): Russians
+ - [Tamerlane #3: Harbinger of Destruction](https://ageofempires.fandom.com/wiki/Harbinger_of_Destruction): Ryazan
+ - [Algirdas and Kestutis #2: No Man's Land](https://ageofempires.fandom.com/wiki/No_Man%27s_Land): any of Kursk and Bryansk - both could work as either Ruthenians or Muscovites, so one of each would work for civ diversity
+ - [Algirdas and Kestutis #3: The Tatar Yoke](https://ageofempires.fandom.com/wiki/The_Tatar_Yoke): Smolensk
+ - [Algirdas and Kestutis #4: A Worthy Opponent](https://ageofempires.fandom.com/wiki/A_Worthy_Opponent): Muscovites, Vladimir, The Kremlin Fortress, Mikhail of Tver
+ - [Jadwiga #3: Duel of the Dukes](https://ageofempires.fandom.com/wiki/Duel_of_the_Dukes): Muscovy
 
 ## Civilization Bonuses
 
@@ -61,11 +69,10 @@
 
  - Cost: 300 food, 400 gold
  - Research Time: 40 seconds
- - Cavalry deal +3 damage against Villagers, Trade Units, [Monks](https://ageofempires.fandom.com/wiki/Armor_class:_Monk), Knights and [buildings](https://ageofempires.fandom.com/wiki/Armor_class:_Building).
+ - Cavalry deal +3 damage against Villagers, Trade Units, [Monks](https://ageofempires.fandom.com/wiki/Armor_class:_Monk), [Heavy Cavalry](../ArmorClasses/HeavyCavalry.md) and [buildings](https://ageofempires.fandom.com/wiki/Armor_class:_Building).
  - The Oprichnina was a political police organization and personal guard of Tsar Ivan IV, intended to target any disloyal nobles within newly conquered territories. This included seizing land, resettling populations and confiscating wealth.
- - This is intended to provide the Muscovites with powerful raiding options in the mid game, as well as offset weaknesses against enemy Knights, given that Muscovites lack both Camels and Halberdiers.
- - This does not affect Cavalry Archers, only the Scout, Knight and Lancer lines at the Stable.
- - Would require introducing new armor classes to the game to accommodate for the specific targets of this new bonus damage.
+ - This is intended to provide the Muscovites with powerful raiding options in the mid game, as well as offset weaknesses against enemy Heavy Cavalry, given that Muscovites lack both Camels and Halberdiers.
+ - This does not affect Cavalry Archers, only the Scout, [Boyar](../Units/Boyar.md) and Lancer lines at the Stable.
 
 ### Imperial Age: Tatar Mercenaries
 
@@ -134,9 +141,8 @@
  - Stable
    - Missing Battle Elephant line.
    - Missing Camel Rider line.
-   - Missing Paladin.
-     - While Muscovy and the Russian world writ large did use heavy cavalry, it was substantially different to the western European style of cavalry that the Paladin represents.
-     - Gameplay considerations also played a role here - Paladins with Oprichnina would be downright broken, but I didn’t want to dilute its effect or restrict it to just the Scout and Lancer lines.
+   - Has access to [Boyar](../Units/Boyar.md) instead of the Knight line.
+     - Given the focus on cavalry and the Oprichnina unique tech, they would probably be among the best Boyars of any civ that would get them.
  - Siege Workshop
    - Missing Siege Ram.
    - Missing Siege Onager.
@@ -206,23 +212,51 @@
 
 ## AI Player Names
 
- - Daniil Aleksandrovich
- - Yury Danilovich
- - Dmitriy Donskoy
- - Vasiliy Dimitriyevich
- - Yury of Zvenigorod
- - Dmitriy Shemyaka
- - Ivan the Fair
- - Ivan Kalita
- - Simeon the Proud
- - Vasily the Blind
- - Ivan the Great
- - Ivan the Terrible
- - Fyodor the Blessed
- - Boris Godunov
- - Nikita Romanovich
- - Roman Zakharyin-Koshkin
- - Andrei Kobyla
+ - [Vsevolod the Big Nest](https://en.wikipedia.org/wiki/Vsevolod_the_Big_Nest)
+   - 11th century Prince of Vladimir
+ - [Yuri the Long-Armed](https://en.wikipedia.org/wiki/Yuri_Dolgorukiy)
+   - 12th century Prince of Rostov, briefly Grand Prince of Kyiv
+   - Epithet translated
+ - [Daniil Aleksandrovich](https://en.wikipedia.org/wiki/Daniel_of_Moscow)
+   - 13th century Prince of Moscow, son of Alexander Nevsky
+ - [Mikhail of Tver](https://en.wikipedia.org/wiki/Mikhail_of_Tver)
+   - Late 13th - early 14th century Prince of Tver and Grand Prince of Vladimir, appears in [Algirdas and Kestutis #4: A Worthy Opponent](https://ageofempires.fandom.com/wiki/A_Worthy_Opponent)
+ - [Yury Danilovich](https://en.wikipedia.org/wiki/Yury_of_Moscow)
+   - 14th century Prince of Moscow and Grand Prince of Vladimir, fought against the Swedes and founded a fort on the Neva
+ - [Dmitriy Donskoy](https://en.wikipedia.org/wiki/Dmitry_Donskoy)
+   - 14th century Prince of Moscow and Grand Prince of Vladimir, first Prince of Moscow to openly challenge Mongol authority, fought the Tatars at Kulikovo
+ - [Vasily Dmitriyevich](https://en.wikipedia.org/wiki/Vasily_I_of_Moscow)
+   - Late 14th - early 15th century Grand Prince of Vladimir and Moscow, allied with Vytautas and resisted the Golden Horde after the events of [Tamerlane #3: Harbinger of Destruction](https://ageofempires.fandom.com/wiki/Harbinger_of_Destruction)
+ - [Yury of Zvenigorod](https://en.wikipedia.org/wiki/Yury_of_Zvenigorod)
+   - Late 14th - early 15th century Duke of Zvenihorod and Galich, one of the contenders the Muscovite War of Succession
+ - [Dmitriy Shemyaka](https://en.wikipedia.org/wiki/Dmitry_Shemyaka)
+   - 15th century Muscovite noble, disputed Prince of Moscow, one of the contenders the Muscovite War of Succession
+ - [Ivan the Fair](https://en.wikipedia.org/wiki/Ivan_II_of_Moscow)
+   - 14th century Prince of Moscow and Grand Prince of Vladimir
+ - [Ivan Kalita](https://en.wikipedia.org/wiki/Ivan_I_of_Moscow)
+   - 14th century Prince of Moscow and Grand Prince of Vladimir
+ - [Simeon the Proud](https://en.wikipedia.org/wiki/Simeon_of_Moscow)
+   - 14th century Prince of Moscow and Grand Prince of Vladimir
+ - [Vasily the Blind](https://en.wikipedia.org/wiki/Vasily_II_of_Moscow)
+   - 15th century Grand Prince of Moscow, one of the contenders the Muscovite War of Succession
+ - [Ivan the Great](https://en.wikipedia.org/wiki/Ivan_III_of_Russia)
+   - Late 15th - early 16th century Grand Prince of Moscow
+ - [Ivan the Terrible](https://en.wikipedia.org/wiki/Ivan_the_Terrible)
+   - 16th century Grand Prince of Moscow, first Tsar of Russia
+ - [Fyodor the Blessed](https://en.wikipedia.org/wiki/Feodor_I_of_Russia)
+   - 16th century Russian Tsar, son of Ivan the Terrible
+ - [Boris Godunov](https://en.wikipedia.org/wiki/Boris_Godunov)
+   - Late 16th century Russian regent and Tsar, the last ruler of the Rurikid dynasty, the last ruler before the Time of Troubles
+ - [Nikita Romanovich](https://en.wikipedia.org/wiki/Nikita_Romanovich_Zakharyin-Yuriev)
+   - 16th century Muscovite Boyar, early ancestor of the Romanov dynasty, brother-in-law of Ivan the Terrible
+ - [Roman Zakharyin-Koshkin](https://en.wikipedia.org/wiki/Roman_Zakharyin-Koshkin)
+   - 16th century Muscovite Boyar, early ancestor of the Romanov dynasty
+ - [Fedor the Cat](https://en.wikipedia.org/wiki/Feodor_Koshka)
+   - Late 14th century Muscovite boyar in the Duma of Dimitriy Donskoy, early ancestor of the Romanov dynasty
+   - Epithet translated
+ - [Andrei Kobyla](https://en.wikipedia.org/wiki/Andrei_Kobyla)
+   - 14th century Muscovite boyar, earliest known agnatic ancestor of the Romanov dynasty
+   - Possibly an exiled Prussian noble
 
 ## Sigil
 
@@ -241,11 +275,11 @@
  - I think [this](https://www.youtube.com/watch?v=jve6HqYHwaY&t=244s) (4:04-9:11, starting timestamp in link) is a much better example, with typically Russian characteristics, such as repeating phrases, vocal exclamations, whistling and flutes.
  - This would also make it very unique and distinctive among other AoE2 civilization jingles, since currently no others feature female vocals, as well as breaking the stereotype that Russian music (particularly traditional Russian music) is always very male and dour.
 
- ## Campaign: Ivan the Terrible
+## Campaign: Ivan the Terrible
 
  - I think there is no other realistic contender for the campaign protagonist. He held the Muscovite/Russian throne for a total of 51 years, created many of the institutions that defined the Muscovite state and this build, like the Streltsy and the Oprichnina, expanded the state significantly and cemented the Moscow as the center of the Russian world for centuries to come. A campaign based on his reign would showcase every part of this build.
 
- ### 1. The Keys To Power
+### 1. The Keys To Power
  
   - The first scenario would be an aggregated representation of the events of his early reign, it would showcase him consolidating power, introduce the setting, any recurring characters and long term goals, and serve as a comparison to use at the end of the campaign when Moscow is fully ascendant.
   - This scenario could feature a sidequest where you establish the Streltsy, unlocking your unique unit. Regardless of whether you do it, you would have them available in later scenarios, but they would prove useful to have here.
@@ -344,10 +378,8 @@
 
 ## Considerations of changes to other Civilizations or the common Tech Tree
 
- - Since this build would only come about with a split of the Slavs civilization, the question arises about what to do with the [Boyar](https://ageofempires.fandom.com/wiki/Boyar_(Age_of_Empires_II)). If, similarly to the Elephant Archer, it is turned into a regional unit for the East Slavic (and some other) civilizations, this one should naturally have it.
-   - Given the focus on cavalry and the Oprichnina unique tech, they would probably be among the best Boyars of any civ that would get them.
-   - Muscovites currently don't get Paladin, partly for historical and partly for gameplay reasons, they should have the fully upgradable Boyar - missing their Elite upgrade would not make sense, and losing a Cavalry upgrade would break their Scout line, Cavalry Archers etc. This would be a significant buff, however, since (current) Elite Boyars are significantly stronger than Cavaliers, all other things being equal. To compensate, the Boyar line could be made more expensive than the Knight line, or their weaknesses (slightly lower move and attack speed) could be increased. Alternatively, the Boyar could just be a regional skin without any stat changes.
-   - Notably, if the Boyar were implemented as a regional Knight variant, it would need to also have the Knight armor class referred to in the notes of the Oprichnina tech, so as to properly receive bonus damage. As an interesting historical synergy, this would make Muscovite Boyars significantly better against Boyars of other civs, a nod to the Oprichniki often being noble sons of Boyar families themselves.  
+### Revetments
+
  - If the tech [Revetments](https://ageofempires.fandom.com/wiki/Revetments) ever gets implemented after all, I think this civilization is a strong contender to get it for free. Northern Russian states primarily used wood for fortifications rather than stone (as noted for the Detinets unique technology), and Muscovy had the most expansive fortifications among northern Russian states, even before conquering Novgorod and expanding into what would become Russia.
    - Muscovites go for quantity over quality with defences - missing Bracer, Hoardings, Architecture, Keep and Bombard Tower. This would feed into that gameplay style, where you could decently defend yourself using just wood, and keep the stone for your Castles, where other civilizations might need to go out of their way to research this. 
      - It is unclear where the tech would be researched. The wiki says it's available in Dark Age, but that might just be a placeholder value since the tech is not available in the game (this is supported by the apparent cost being only 10 wood, most likely another placeholder).
@@ -356,6 +388,9 @@
    - If they did get this, I would remove Fortified Wall. They currently do get it, which might seem antithetical to the quantity over quality approach, but I reasoned that that would leave them with perhaps the worse defences next to the Huns. Very few civs miss this technology, and all with good reasons, be it an oppressive offense, strategy that would be unbeatable if you couldn't pressure them, or good defences in other areas. For Muscovites, having instant access to the best Palisades in the game could be that reason.
    - None of this will matter particularly at a high level of play, where walls are rare to begin with, but this game is for everyone, and at lower levels reinforcing a wall on Black Forest with Palisades instead of Stone Walls might mean getting to a Castle earlier and changing the course of the game. 
    - This might clash with the Cuman team bonus which provides a similar bonus, and devs might be tempted to give them this instead. However, I think there is room for both to stack.
+
+### Detinets
+
  - There is an argument that could be made to have Detinets become a regional technology shared by many civilizations in the area, like the Novgorodians, Permians, Mordvins, Vepsians, Finns, Sámi and others, in addition to Muscovites, since they would have all had similar materials available and would have practiced similar construction techniques. Having this as a bonus that sets them apart from other civilizations is a core part of the identity of this build, and having this be a regional technology, even if the Muscovites did get it for free, would dramatically alter the viability of this build.
    - Currently, the build works with this bonus because the Muscovites' tech tree allows for it. They miss Architecture, Hoardings and Bracer, and a civ with any or all of those getting the same effect might be considered very strong - notice that Franks also miss Bracer - and restricting all these civs to that same design area would be counterproductive, particularly because of how lacking Bracer affects the whole design of a civilization. 
    - A possible way around this is to do a Byzantines and have the effect of the tech be smaller (say, 20% down from 40), so that the advantage remains notable, but a larger bonus can still define a civ's identity.
@@ -368,15 +403,6 @@
  - I considered giving the Muscovites access to Caravanserai to represent the flow of trade. This would have strengthened their late game gold economy in a realistic, historically accurate way that would be unique for a European civilization. In the end I decided against this because it would have no effect in 1v1 games, and Muscovy was historically not a huge team player, and because I wanted to have less of a long-term effect, to underscore that you are under pressure to close out the game while you still have gold.
  - For the same reason of being dependent on gold in the late game, I considered giving them free Guilds in Castle age as a representation of the centralization of power and population. However, I think thematically this would work better for Novgorodians, though that does leave me feeling like the Muscovites have a bit of a sharp dropoff in Castle Age, even with a very broad tech tree.
  - I had considered giving them a team bonus improving the toughness of Trade units instead (more HP, affected by cavalry upgrades etc.) to represent them controlling a significant, but more dangerous trade route between Europe and Asia, a sort of counterpoint to the Caravanserai which represents the safer, more efficient southern routes. I decided against it since it would be entirely useless in most 1v1 games and would be the third of their bonuses to explicitly refer to trade.
- - I was considering ways to implement something referring to the [Druzhina](https://en.wikipedia.org/wiki/Druzhina). The [current](https://ageofempires.fandom.com/wiki/Druzhina) infantry effect would be out of place in this build, except maybe as a Chronicles-style alternative unique tech for some late game tech switching. However, this is something that should ideally be referenced in at least most Slavic civilizations - and maybe others, similar personal retinues also existed in other parts of Europe and the world, but I would rather not tear up the entire game just to fix one build.
-    - While I think the current effect makes sense on the current civ which has an Infantry focus from the start, having one common effect in all situations will likely not translate to useful or interesting gameplay choices.
-    - Having a very broad effect, like a bonus applying to the unique unit of any civilization gets it, would probably not have the same magnitude of effect, and hence, value, and would be difficult to balance.
-    - A more general effect, for example something affecting all gold units, would be more viable, but also less interesting, and it'd seem like just another common tech that many civs don't get. Having this would also limit civilizations getting this in their design since considerations would need to be given to avoiding power creep.
-    - A regional unit would probably work best, and there are a couple of possible approaches here:
-      - In the vein of Greek [Hoplites](https://ageofempires.fandom.com/wiki/Hoplite_(Chronicles)) from Chronicles, a powerful but expensive unit that is stronger in a group.
-      - Akin to the bodyguard units from the Grand Campaign, a powerful unit trained at the Castle with strong stats but a build limit and no Elite upgrade.
-    - Another approach could be to have a Knyaz unit as analogous to the Spartans' [Polemarch](https://ageofempires.fandom.com/wiki/Polemarch), and have the Druzhina effect be his aura, possibly even configurable with unique or regional techs to have various different effects.
-    - Ultimately, given that most feudal lords would have had some kind of personal retinue or house guard, and the equipment and strategy used by these was a matter of local material conditions rather than cultural tradition, I find it difficult to justify singling this one out in particular, and think that this is best reserved for a more complete rethinking of the game, where specialized units or other mechanics would exist for this purpose across a wider range of civilizations, and I would lean towards one of the aforementioned options depending on the broad gameplay design of this new game, which is ultimately beyond the scope of this build.
 
 ## Loose Threads
 

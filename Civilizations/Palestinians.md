@@ -34,6 +34,15 @@
  My intent here is specifically to bring attention to the fact that Palestine was never "a land without a people", nor was it "colonized by Arabs", nor are Palestinian people "nomads with no home", nor are they indistinguishable from Syrians, Arabians, Egyptians and other ethnic groups.
  - An additional minor reason for this name is that the current top ranked player in the world, [Hera](https://liquipedia.net/ageofempires/Hera), is of Palestinian origin. 
 
+## Existing campaign appearances
+
+ - [Saladin #3: The Horns of Hattin](https://ageofempires.fandom.com/wiki/The_Horns_of_Hattin_(Age_of_Empires_II)) - Jerusalem
+ - [Saladin #4: The Siege of Jerusalem](https://ageofempires.fandom.com/wiki/The_Siege_of_Jerusalem) - Jerusalem
+ - [Saladin #5: Jihad!](https://ageofempires.fandom.com/wiki/Jihad!) - Hebron, possibly Tiberias
+ - [Saladin #6: The Lion and the Demon](https://ageofempires.fandom.com/wiki/The_Lion_and_the_Demon) - Jerusalem
+ - [Barbarossa #6: The Emperor Sleeping](https://ageofempires.fandom.com/wiki/The_Emperor_Sleeping) - Jerusalem
+ - [Longshanks #2: A Man of God](https://ageofempires.fandom.com/wiki/A_Man_of_God) - Nazareth
+
 ## Civilization Bonuses
 
  - **Olive Groves**
@@ -326,6 +335,8 @@
  - Notable parallels also include Sicilians, as another hybrid Christian-Muslim civ (or at least one that should be), with the high yield farms, and Saracens, with the wide tech tree, area of effect healing, and harder hitting Mangonels.
 
 ## Considerations of changes to other Civilizations or the common Tech Tree
+
+### Madrasah
 
  - This civilization is a *reasonable* candidate to have access to the [Madrasah](../Buildings/Madrasah.md).  
    - Pros:
