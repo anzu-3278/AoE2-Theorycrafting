@@ -21,74 +21,150 @@
 
 ## Civilization Bonuses
 
- - **Winemaking Tradition**
-   - Forage bushes give +40% food, 10% of food as gold.
-   - I see this as an early game boost to delay farming and open the possibility for a Militia rush or Men at Arms rush without needing to send Villagers to gather gold.
-   - Georgia is the site of some of the earliest known archeological finds related to winemaking, and has kept industriously to that tradition all through the medieval period.
- - **Chidaoba Wrestling**
-   - All human melee units +1 attack.
-   - This is a very flexible bonus that would help in early rushes, villager fights and even in the late game, always giving a slight edge in head-to-head fights. being a bit weaker than more specific bonuses like the Japanese, Teutons, Goths or Slavs, but also applicable in a wider variety of situations.
-   - Chidaoba wrestling is an ancient Georgian tradition that persists to this day. Many men practice some form of this martial art and some of the world's best wrestlers are from this area.
+### Winemaking Tradition
+
+#### Effect
+
+ - Forage bushes give +40% food, 10% of food as gold.
+
+#### History
+
+ - Georgia is the site of some of the earliest known archeological finds related to winemaking, and has kept industriously to that tradition all through the medieval period.
+
+#### Gameplay
+
+ - I see this as an early game boost to delay farming and open the possibility for a Militia rush or Men at Arms rush without needing to send Villagers to gather gold.
+
+### Chidaoba Wrestling
+
+#### Effect
+
+ - All human melee units +1 attack.
    - This affects Villagers while fighting in melee - not just military units.
- - **Mountain Warfare**
-   - Elevation damage reduction increased from 25% to 35%.
-   - Units and buildings +1 range when attacking downhill.
-   - This would apply to both units and buildings and would be their primary defensive bonus.
-   - If playtesting showed this to be weak, I would be open to increasing it even up to 40%, or even increasing the range bonus to +2 for buildings.
-   - The idea here is that strategically placed Castles would be able to hold positions longer and that it would be significantly more difficult to drive the Kartvelians out of the mountains. 
-   - The range bonus is also there to balance the fact that the civilization is missing Bracer, so their Castle placement would have to be a bit more strategic to make up for that.
- - **Religious Tolerance**
-   - Monks regenerate faith 20% faster.
-   - This is supposed to represent that despite being a very Orthodox Christian country, medieval Georgia was also accepting of foreigners, but didn't let them diminish their cultural sovereignty, even when subjugated.
-   - While the Kartvelians have fully upgraded Monks, I don't see them going for huge Monk plays offensively (such as a Monk and Siege push) but rather with Monks supporting their armies in Castle Age by deterring tanky Knights and Elephants that could do damage to your Cavalry Archers or Lancers before Monaspa comes in. 
-   - And it just wouldn't be a Georgians civ concept without a Monk bonus.
- - **Cuman immigrants**
-   - Heavy Cavalry Archer free.
-   - The idea here was to give the Georgians a decent ranged option in the late game if used in combination with their defensive bonus, as well as a power spike in early Imperial Age.
-   - This will make it more reasonable to go for Cavalry Archers in Castle Age (when they are fully upgraded) since the cost savings and instant power spike can make them worth it in early Imperial even without Bracer.
-   - Georgia received large numbers of Cuman immigrants following the Mongol invasion. These newcomers would have introduced new styles of warfare to Georgia, representing a cultural exchange that would have given the Kartvelian people a leg up on their neighbors who would have, in the Caucasus mountains, been unfamiliar with steppe warfare.
+
+#### History
+
+ - Chidaoba wrestling is an ancient Georgian tradition that persists to this day. Many men practice some form of this martial art and some of the world's best wrestlers are from this area.
+
+#### Gameplay
+
+ - This is a very flexible bonus that would help in early rushes, villager fights and even in the late game, always giving a slight edge in head-to-head fights. being a bit weaker than more specific bonuses like the Japanese, Teutons, Goths or Slavs, but also applicable in a wider variety of situations.
+
+### Mountain Warfare
+
+#### Effect
+
+ - Elevation damage reduction increased from 25% to 35%.
+ - Units and buildings +1 range when attacking downhill.
+
+#### Gameplay
+
+ - This would apply to both units and buildings and would be their primary defensive bonus.
+ - If playtesting showed this to be weak, I would be open to increasing it even up to 40%, or even increasing the range bonus to +2 for buildings.
+ - The idea here is that strategically placed Castles would be able to hold positions longer and that it would be significantly more difficult to drive the Kartvelians out of the mountains. 
+ - The range bonus is also there to balance the fact that the civilization is missing Bracer, so their Castle placement would have to be a bit more strategic to make up for that.
+
+### Religious Tolerance
+
+#### Effect
+
+ - Monks regenerate faith 20% faster.
+
+#### History
+
+ - This is supposed to represent that despite being a very Orthodox Christian country, medieval Georgia was also accepting of foreigners, but didn't let them diminish their cultural sovereignty, even when subjugated.
+
+ #### Gameplay
+
+ - While the Kartvelians have fully upgraded Monks, I don't see them going for huge Monk plays offensively (such as a Monk and Siege push) but rather with Monks supporting their armies in Castle Age by deterring tanky Knights and Elephants that could do damage to your Cavalry Archers or Lancers before Monaspa comes in. 
+ - And it just wouldn't be a Georgians civ concept without a Monk bonus.
+
+### Cuman immigrants
+
+#### Effect
+
+ - Heavy Cavalry Archer free.
+
+#### History
+
+ - Georgia received large numbers of Cuman immigrants following the Mongol invasion. These newcomers would have introduced new styles of warfare to Georgia, representing a cultural exchange that would have given the Kartvelian people a leg up on their neighbors who would have, in the Caucasus mountains, been unfamiliar with steppe warfare.
+
+#### Gameplay
+
+ - The idea here was to give the Georgians a decent ranged option in the late game if used in combination with their defensive bonus, as well as a power spike in early Imperial Age.
+ - This will make it more reasonable to go for Cavalry Archers in Castle Age (when they are fully upgraded) since the cost savings and instant power spike can make them worth it in early Imperial even without Bracer.
 
 ## Team Bonus
 
- - **Svan Towers**
-   - Towers provide +15 population space. Outposts provide +5 population space.
-   - Svan Towers are iconic medieval Georgian buildings that served as dwellings as well as outposts and defensive fortifications.
-   - The resource savings here are probably not substantial enough to warrant any sort of Tower rush, even combined with **Mountain Warfare**, but will serve as a slight rebate when forced into a defensive tower, on top of saving some space on cramped maps, as is fitting for a defensive and mountainous civilization.
+### Svan Towers
+
+#### Effect
+
+ - Towers provide +15 population space. Outposts provide +5 population space.
+
+#### History
+
+ - Svan Towers are iconic medieval Georgian buildings that served as dwellings as well as outposts and defensive fortifications.
+
+#### Gameplay
+
+ - The resource savings here are probably not substantial enough to warrant any sort of Tower rush, even combined with **Mountain Warfare**, but will serve as a slight rebate when forced into a defensive tower, on top of saving some space on cramped maps, as is fitting for a defensive and mountainous civilization.
 
 ## Unique Techs
 
 ### Castle Age: Monaspa Cavalry
 
+#### Stats
+
  - Cost: 500 food, 400 gold
  - Researched in 80 seconds
+
+#### Effect
+
  - Lancer line units get +2/+1 armor, +20 hit points.
  - Lancer line units reload time reduced to 1.8.
  - [Steppe Lancer](https://ageofempires.fandom.com/wiki/Steppe_Lancer) gets renamed to Monaspa Lancer.
+
+#### History
+
+ - The idea behind this tech is that it represents a consolidation of power and that these lancers are no longer steppe and mountain raiders but nobility - transforming them into Knight-like units.
+ - This is probably not historical at all as the Monaspa were Georgian nobility (and would thus be represented by the Knight line) but I just liked this so much as a mechanical thing.
+ - Also it annoys me that the Steppe Lancer is not just the Lancer, when many non-steppe civilizations had medium shock cavalry - the [Leitis](https://ageofempires.fandom.com/wiki/Leitis) and [Coustillier](https://ageofempires.fandom.com/wiki/Coustillier) fall into this category, for example.
+
+#### Gameplay
+
  - The idea here was to have an alternative to the Knight line for the power unit and basis of the Georgian army in long Castle Age games, as well as being a unit for which taking advantage of the attacking downhill bonus is easier than the Knight line.
  - This effectively turns the Lancer line into cheaper Knights with less HP and a ranged attack.
- - This was written before the April PUP (which ended up becoming [Update 81058](https://ageofempires.fandom.com/wiki/Update_81058), increasing Elite Steppe Lancer pierce armor from 1 to 2) went live. I don't think having 3+4 pierce armor on Elite Steppe Lancers late game would be broken (the unit is supposed to be a Paladin substitute), but if playtesting did show it was too strong for a unit only costing 40 gold I would be open to removing the pierce armor bonus.
+ - This was written before the [Update 81058](https://ageofempires.fandom.com/wiki/Update_81058) (which increased Elite Steppe Lancer pierce armor from 1 to 2) went live. I don't think having 3+4 pierce armor on Elite Steppe Lancers late game would be broken (the unit is supposed to be a Paladin substitute), but if playtesting did show it was too strong for a unit only costing 40 gold I would be open to removing the pierce armor bonus.
  - Since common units change appearance when they get upgrades, I had originally imagined this looking somewhat like the [Sogdian Cataphract](https://ageofempires.fandom.com/wiki/Sogdian_Cataphract) (similarly armored to the Elite Steppe Lancer but leaning more towards gold). Alternatively, the current [Monaspa](https://ageofempires.fandom.com/wiki/Monaspa) sprite could also be used - that was not an option when this was first being written.
- - The idea behind this tech is that it represents a consolidation of power and that these lancers are no longer steppe and mountain raiders but nobility - transforming them into Knight-like units.
-   - This is probably not historical at all as the Monaspa were Georgian nobility (and would thus be represented by the Knight line) but I just liked this so much as a mechanical thing.
-   - Also it annoys me that the Steppe Lancer is not just the Lancer, when many non-steppe civilizations had medium shock cavalry - the [Leitis](https://ageofempires.fandom.com/wiki/Leitis) and [Coustillier](https://ageofempires.fandom.com/wiki/Coustillier) fall into this category, for example.
 
 ### Imperial Age: Legacy of the Builder
 
+#### Stats
+
  - Cost: 900 wood, 400 gold
  - Researched in 30 seconds
+
+ #### Effect
+
  - Buildings built and repaired 40% faster.
  - Buildings cost 20% less to repair and 20% less wood to build.
+
+#### Gameplay
+
  - One aspect of this refers to Georgian expansion in the later middle ages, being reflected in being able to place down forward military buildings, especially Castles in strategic locations quickly to take advantage of their defensive bonus. Being able to place buildings more quickly and cheaply or repair them will help in the late game, ensuring that the lack of production capacity never becomes an issue.
  - The other part of this is meant to be their secondary defensive bonus, allowing them to repair Castles with fewer villagers.
  - This kicks in too late to be a real economy bonus, but it will mean that you have more resources available for units.
  - For balance reasons I didn't want to reduce the stone cost of buildings as I thought it would be very strong in combination with the other effects. (Detinets replaces 40% of the cost with wood and has no other effect.)
- - The historical justification for this can be buildings being built into mountains or hills requiring less material, but if balance (or hypothetical playtesting) shows, the stone cost can be included in the reduction.
 
 ## Unique Units
 
 ### Tadzreuli 
 
  - Heavily armored generalist infantry
+
+#### Stats
+
  - Cost: 60 food 40 gold
  - Non-Elite Unit Stats
    - 80 hit points
@@ -114,7 +190,13 @@
    - +4 damage against Eagle Warrior
    - +5 damage against Cavalry and Camel
    - Conversion resistance: +2 min, +1 max.
+
+#### History
+
  - The Tadzreuli were the elite guards of the Georgian kings and I felt like that was a really good fit for the Castle unique unit. Their religious devotion is also why they resist conversion (though not to the extent of the Scout line) and are healed faster.
+
+#### Gameplay
+
  - My idea for this unit was for it to be a tanky power unit that could take a lot of punishment for an infantry unit (similar to the Obuch, Serjeant, to an extent even the Berserk).
  - They are *not cheap* for infantry but also not impossible to get going and very versatile, with decent matchups against most common units.
  - They are as fast as the Swordsman line so they might have trouble forcing engagements on the offense, but are difficult to dislodge from defensive positions due to their high armor and faster healing.
@@ -122,6 +204,9 @@
 ### Khevsur 
 
  - Fast moving raiding infantry
+
+#### Stats
+
  - Cost: 50 food, 30 wood
  - Trained at the Barracks
  - Available in Castle Age
@@ -147,74 +232,143 @@
    - 1/1 armor
    - +10 damage against Standard Building
    - +10 damage against Stone Defense
+
+#### History
+
+ - At first I didn't intend on having this build have two unique units, but everywhere I went I read about the fierce guerilla warriors of the Khevsureti region, but that didn't really fit what I had in mind for the Castle unique unit.
+
+#### Gameplay
+
  - Intended as an alternative to the Light Cavalry line in the late game, as well as a possible alternative to siege as a sort of Tarkan on foot.
  - Slightly stronger than Halberdiers and Skirmishers but also more expensive and much weaker against all other units, so while using it in trash wars can be effective, you can also lose them more easily - they are not meant for hard combat but to get in your enemy's base and make sure they don't have where to make units from anymore.
- - At first I didn't intend on having this build have two unique units, but everywhere I went I read about the fierce guerilla warriors of the Khevsureti region, but that didn't really fit what I had in mind for the Castle unique unit.
  - The special ability is there pretty much just as a reference to the specialized terrain fighting and I'm fully aware that it will be difficult to take advantage of that with a unit that is meant to be fast. 
  - My hope is that it will find a niche in being used in a similar way to the Scout line, but lacking their weakness to the Spear line. This is also why they have above average LoS for Infantry.
 
 ## Tech Tree
 
- - Barracks:
-   - Missing Eagle line.
-   - Their infantry is intended to be good on account of the damage bonus, but not top tier.
- - Archery Range
-   - Missing Arbalester.
-   - Missing Hand Cannoneer.
-   - I wanted them to have the Cavalry Archer as the late game ranged power unit, partly because I liked the idea about having Heavy Cavalry Archer free and partly as a sort of subversion of the design trope of having pretty much all the good Cavalry Archer civs be historically nomadic, steppe people.
- - Stable
-   - Missing Hussar.
-     - This is an incentive to use the Khevsur instead for raiding.
-   - Missing Paladin.
-   - Missing Heavy Camel Rider.
-     - I wanted them to have a connection to the Cumans in having Camel Riders but not Heavy Camel riders.
-     - The Bactrian camel is native to the northern Caucasus, so it makes sense for civs from this region to have that option.
-   - Missing Battle Elephant line.
-   - In the late game the Monaspa Lancer is really going to be where it's at, but the other options are all decent as well.
- - Siege Workshop
-   - Missing Siege Onager.
-   - Missing Bombard Cannon.
-   - Georgians were not famous for their sieging and conquering of other civilizations' strongholds, so they have the basics but nothing fancy.
- - Blacksmith
-   - Missing Bracer.
-     - Fairly self explanatory, I wanted this to be a core design aspect of the civilization, as well as another similarity with the Cumans.
- - Monastery: Full
-   - Georgia was known for its devoutness and the many monasteries in the region.
- - Castle: Full
- - Market
-   - Missing Guilds.
-     - Georgia was not a huge trading crossroads, so that was part of the historical reasoning.
-     - The balance consideration for missing Guilds is that they can generally take very efficient fights with their defensive bonus, the Lancer line being cheaper with regards to gold than the Knight line, their infantry being stronger than generic fully upgraded, and buildings being cheaper in the late game. All this led me to think that they didn't really need to have good Markets.
- - University
-   - Missing Bombard Tower.
-     - Georgia was not known for its use of gunpowder. There are too few old-world civilizations that don't have any gunpowder, so I thought it would be an interesting design choice here.
-   - Missing Siege Engineers.
-     - Primarily for balance reasons and to support the "bland siege" identity.
-   - Missing Heated Shot.
-     - Georgia was never really a significant naval or coastal power.
- - Dock
-   - Missing Shipwright.
-   - Missing Cannon Galleon.
-   - All the basics needed to not be unplayable.
-   - Without Bracer they will have to go for the Fast Fire Ship in late game, which is more expensive with regards to gold. This is intended to play in tandem with the wood savings from **Legacy of the Builder**.
-   - My intent was for the civ to be fairly weak on water, similar to other civilizations that were mostly land based even if they did have access to the sea like Magyars or Malians.
- - Mill: Full
-   - I wanted the Kartvelians to have a good economy late game, since their eco bonus only really applies early on, and their ability to take cost effective fights would let them keep pace with civs that have permanent economic advantages. If their economy proves too strong because of this, I would consider removing Crop Rotation.
- - Lumber Camp: Full
- - Mining Camp: Full
+### Barracks: Full
 
-## Architecture: Caucasian (new)
+ - Their infantry is intended to be good on account of the damage bonus, but not top tier.
 
- - I would base this architecture set roughly on existing building sprites from the Eastern European and Mediterranean architecture sets, with different colours. Exceptions to this are:
-   - The Monastery which would look like the Central European one (Gelati Monastery).
-   - The Houses, Walls and Towers, which would look Central Asian.
- - All of these sprites would have a different color palette applied to them, with roofs being a darker gray (slightly lighter than the Imperial Age Western European ones) and the bricks being shades of beige that are darker and yellower than the Central Asian buildings but lighter and brighter than the Eastern European ones. I think this color palette would make the architecture the best possible combination of representative and visually distinctive.
- - This architecture set would be shared by the Armenians, Khazars (except for the Monastery, obviously) which should definitely be in the game, and possibly other Caucasian civs like the Alans, Ossetians, Circassians or Chechens.
+### Archery Range
 
- - Castle Skin
-   - I did not provide one in the original build, and the one from the official civilization is entirely appropriate.
- - Wonder Skin
-   - I did not provide one in the original build, and the one from the official civilization is entirely appropriate.
+#### Availability
+
+ - Missing Arbalester.
+ - Missing Hand Cannoneer.
+
+#### Gameplay
+
+ - I wanted them to have the Cavalry Archer as the late game ranged power unit, partly because I liked the idea about having Heavy Cavalry Archer free and partly as a sort of subversion of the design trope of having pretty much all the good Cavalry Archer civs be historically nomadic, steppe people.
+
+### Stable
+
+#### Availability
+
+ - Missing Hussar.
+ - Missing Paladin.
+ - Have access to the Camel Rider, but not the Heavy Camel Rider.
+ - Have access to the Steppe Lancer and Elite Steppe Lancer.
+
+#### History
+
+ - The Bactrian camel is native to the northern Caucasus, so it makes sense for civs from this region to have that option.
+
+#### Gameplay   
+
+ - This is an incentive to use the Khevsur instead for raiding.
+ - I wanted them to have a connection to the Cumans in having Camel Riders but not Heavy Camel Riders.
+ - In the late game the Monaspa Lancer is really going to be where it's at, but the other options are all decent as well.
+
+### Siege Workshop
+
+#### Availability
+
+ - Missing Siege Onager.
+ - Missing Bombard Cannon.
+
+#### History
+
+ - Georgians were not famous for their sieging and conquering of other civilizations' strongholds, so they have the basics but nothing fancy.
+
+### Blacksmith
+
+#### Availability
+
+ - Missing Bracer.
+
+#### Gameplay
+
+ - Fairly self explanatory, I wanted this to be a core design aspect of the civilization, as well as another similarity with the Cumans.
+
+### Monastery: Full
+
+ - Georgia was known for its devoutness and the many monasteries in the region.
+
+### Castle: Full
+
+### Market
+
+#### Availability
+
+ - Missing Guilds.
+
+#### History
+
+ - Georgia was not a huge trading crossroads.
+
+#### Gameplay
+
+ - The Kartvelians can generally take very efficient fights with their defensive bonus, the Lancer line being cheaper with regards to gold than the Knight line, their infantry being stronger than generic fully upgraded, and buildings being cheaper in the late game. All this led me to think that they didn't really need to have good Markets.
+
+### University
+
+#### Availability
+
+ - Missing Bombard Tower.
+ - Missing Siege Engineers.
+ - Missing Heated Shot.
+
+#### History
+
+ - Georgia was never really a significant naval or coastal power.
+ - Georgia was not known for its use of gunpowder.
+
+ #### Gameplay
+
+ - Missing Siege Engineers is primarily for balance reasons and to support the "bland siege" identity.
+ - There are too few old-world civilizations that don't have any gunpowder, so I thought it would be an interesting design choice here.
+
+### Dock
+
+#### Availability
+
+ - Missing Shipwright.
+ - Missing Cannon Galleon.
+
+#### Gameplay
+
+ - All the basics needed to not be unplayable.
+ - Without Bracer they will have to go for the Fast Fire Ship in late game, which is more expensive with regards to gold. This is intended to play in tandem with the wood savings from **Legacy of the Builder**.
+ - My intent was for the civ to be fairly weak on water, similar to other civilizations that were mostly land based even if they did have access to the sea like Magyars or Malians.
+
+### Mill: Full
+
+#### Gameplay
+
+ - I wanted the Kartvelians to have a good economy late game, since their eco bonus only really applies early on, and their ability to take cost effective fights would let them keep pace with civs that have permanent economic advantages. If their economy proves too strong because of this, I would consider removing Crop Rotation.
+
+### Lumber Camp: Full
+### Mining Camp: Full
+
+## Architecture: [Caucasian](../Architecture/Caucasian.md)
+
+### Castle Skin
+
+ - I did not provide one in the original build, and the one from the official civilization is entirely appropriate.
+### Wonder Skin
+
+ - I did not provide one in the original build, and the one from the official civilization is entirely appropriate.
 
 ## Language: Classical Old Georgian
 

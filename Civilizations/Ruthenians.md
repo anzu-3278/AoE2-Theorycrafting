@@ -37,55 +37,118 @@
 
 ## Civilization Bonuses
 
- - **Chernozem**
-   - Farmers work 15% faster.
-   - This is a straight port of the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus, which is obviously based on the [Chernozem](https://en.wikipedia.org/wiki/Chernozem) fields of Ukraine, some of the most fertile farmland in the entire world.
- - **Zadonschina Raids**
-   - Barracks technologies affect all Infantry, Stable units and Skirmishers.
-   - Barracks technologies effect on Infantry doubled.
-   - At the time of writing, the techs affected are: [Tracking](https://ageofempires.fandom.com/wiki/Tracking), [Arson](https://ageofempires.fandom.com/wiki/Arson), [Squires](https://ageofempires.fandom.com/wiki/Squires), and [Gambesons](https://ageofempires.fandom.com/wiki/Gambesons_(Age_of_Empires_II)).
-   - Early Ruthenian chronicles describe raiding warfare performed by the Ruthenian princes - most notably, [Prince Igor](https://en.wikipedia.org/wiki/The_Tale_of_Igor%27s_Campaign) - on the Ukrainian plains. All these techs affecting cavalry that does not have access to Bloodlines will provide a unique tradeoff when raiding, while simultaneously making it easier to tech switch to infantry.
-   - Infantry that moves faster, has more pierce armor and deals more damage to buildings will also be more effective at raiding in both the mid and late game.
-   - This is slightly inspired by the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus of getting certain Barracks techs for free. However, I'm taking a different approach here, since timing bonuses are less viable on infantry than archers or cavalry.
-   - Yes, this does mean that Ruthenians will have faster infantry than Celts and faster cavalry than Cumans. There are weaknesses in the Siege department to account for this. This is largely an early medieval civilization that still remembers their Viking roots.
- - **Vladimir's Choice**
-   - Monks cost -40%.
-   - According to the Primary Chronicle, Grand Prince Vladimir the Great converted to Orthodox Christianity after sending for emmisaries from the four religions present in the region: Catholic Christianity, Orthodox Christianity, Judaism and Islam.
-   - The reduction in cost represents the hold over religious matters that the Grand Prince would have had after making that choice, and the religious diversity already present in his realm at that point, including both kinds of Christians, conquered Jewish Khazars, Muslim Bulgars, and Slavic and Finnic pagans.
-   - Gameplay-wise, this just means getting more monks out earlier and being able to keep up with monk techs without disrupting Boyar production, or needing fewer villagers on gold in the mid-game, allowing you to save up stone for a Castle or to make better use of your farming bonus.
-   - This is intended to replace the current Slavs' Monk movement speed bonus, which is in my mind not significant past getting free Fervor. Since Monks keeping up with the army is not intended, this version of the bonus instead means to make it easier to make monks on the side to get relics or deal with siege to which infantry armies could be vulnerable.
+### Chernozem
+
+#### Effect
+
+ - Farmers work 15% faster.
+
+#### History
+
+ - Ukraine is home to the [Chernozem](https://en.wikipedia.org/wiki/Chernozem) fields, some of the most fertile farmland in the entire world.
+ - This is the reason that Ukraine came to be known as the Breadbasket of Europe.
+
+#### Gameplay
+
+ - This is a straight port of the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus.
+
+### Zadonschina Raids
+
+#### Effect
+
+ - Barracks technologies affect all Infantry, Stable units and Skirmishers.
+ - Barracks technologies effect on Infantry doubled.
+
+#### History
+
+- Early Ruthenian chronicles describe raiding warfare performed by the Ruthenian princes - most notably, [Prince Igor](https://en.wikipedia.org/wiki/The_Tale_of_Igor%27s_Campaign) - on the Ukrainian plains.
+
+#### Gameplay
+
+ - At the time of writing, the techs affected are: [Tracking](https://ageofempires.fandom.com/wiki/Tracking), [Arson](https://ageofempires.fandom.com/wiki/Arson), [Squires](https://ageofempires.fandom.com/wiki/Squires), and [Gambesons](https://ageofempires.fandom.com/wiki/Gambesons_(Age_of_Empires_II)).
+ - All these techs affecting cavalry that does not have access to Bloodlines will provide a unique tradeoff when raiding, while simultaneously making it easier to tech switch to infantry.
+ - Infantry that moves faster, has more pierce armor and deals more damage to buildings will also be more effective at raiding in both the mid and late game.
+ - This is slightly inspired by the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus of getting certain Barracks techs for free. However, I'm taking a different approach here, since timing bonuses are less viable on infantry than archers or cavalry.
+ - Yes, this does mean that Ruthenians will have faster infantry than Celts and faster cavalry than Cumans. There are weaknesses in the Siege department to account for this. This is largely an early medieval civilization that still remembers their Viking roots.
+
+### Vladimir's Choice
+
+#### Effect
+
+ - Monks cost -40%.
+
+#### History
+
+ - According to the Primary Chronicle, Grand Prince Vladimir the Great converted to Orthodox Christianity after sending for emmisaries from the four religions present in the region: Catholic Christianity, Orthodox Christianity, Judaism and Islam.
+ - The reduction in cost represents the hold over religious matters that the Grand Prince would have had after making that choice, and the religious diversity already present in his realm at that point, including both kinds of Christians, conquered Jewish Khazars, Muslim Bulgars, and Slavic and Finnic pagans.
+
+#### Gameplay
+
+ - This means getting more monks out earlier and being able to keep up with monk techs without disrupting Boyar production, or needing fewer villagers on gold in the mid-game, allowing you to save up stone for a Castle or to make better use of your farming bonus.
+ - This is intended to replace the current Slavs' Monk movement speed bonus, which is in my mind not significant past getting free Fervor. Since Monks keeping up with the army is not intended, this version of the bonus instead means to make it easier to make monks on the side to get relics or deal with siege to which infantry armies could be vulnerable.
 
 ## Team Bonus
 
- - **Four Great Rivers**
-   - Trade Carts and non-military ships move 10% faster.
-   - The Ruthenians inhabited the old Slavic homeland on the Pontic Steppe, crisscrossed by the four great rivers of the region: the Danube, Dniester, Dnieper and Don, as well as their many tributaries. These rivers were greatly utilized for trade and travel.
-   - This is intended to be a slight economic bonus, both for fishing in the early game and trade in the late game. While Ukraine is not heavily associated with fishing in the modern day, significant trade flowed through the Kyivan Rus in its heyday.
-   - This bonus affects Trade Carts simply so that it is not completely useless on land maps.
-   - Given the dependency the Kyivan Rus had on trade with the Byzantine Empire, it is apt that the effectiveness of this bonus is greatly diminished without an ally.
-   - The use of fast dugout canoes by the Rus against the Byzantines to land troops quickly also supports this affecting Transport Ships.
+### Four Great Rivers
+
+#### Effect
+
+ - Trade Carts and non-military ships move 10% faster.
+
+#### History
+
+ - The Ruthenians inhabited the old Slavic homeland on the Pontic Steppe, crisscrossed by the four great rivers of the region: the Danube, Dniester, Dnieper and Don, as well as their many tributaries. These rivers were greatly utilized for trade and travel.
+
+#### Gameplay 
+
+ - This is intended to be a slight economic bonus, both for fishing in the early game and trade in the late game. While Ukraine is not heavily associated with fishing in the modern day, significant trade flowed through the Kyivan Rus in its heyday.
+ - This bonus affects Trade Carts simply so that it is not completely useless on land maps.
+ - Given the dependency the Kyivan Rus had on trade with the Byzantine Empire, it is apt that the effectiveness of this bonus is greatly diminished without an ally.
+ - The use of fast dugout canoes by the Rus against the Byzantines to land troops quickly also supports this affecting Transport Ships.
 
 ## Unique Techs
 
 ### Castle Age: Bogatyrs
 
+#### Stats
+
  - Cost: 400 food, 400 gold
  - Research Time: 60 seconds
+
+#### Effect
+
  - [Boyar](../Units/Boyar.md)s and Izgoi regenerate 30 HP per minute.
  - [Boyar](../Units/Boyar.md)s' and Izgoi conversion resistance increased by +4 min, +4 max. (Equivalent to the effect of [Faith](https://ageofempires.fandom.com/wiki/Faith).)
+
+#### History
+
  - Bogatyrs are the East Slavic equivalent of medieval equivalent of knights-errant, and appear in Rus' epic poems - bylinas - coming to prominence around the end of the 10th century.
  - The bylinas of the Kyivan Cycle center on the exploits three Bogaryrs - Alyosha Popovich, Dobrynya Nikitich and Ilya Muromets - whose exploits server as inspiration and lesson to Boyars of the time.
- - This is reflected in the effect making them similar to Age of Empires 2 heroes - regenerating and harder to convert.
+
+#### Gameplay
+
+ - The impact of these legends is reflected in the effect making them similar to Age of Empires 2 heroes - regenerating and harder to convert.
  - The regeneration is also a callback to the [Berserk](https://ageofempires.fandom.com/wiki/Berserk_(Age_of_Empires_II)), given that many of these nobles would have been descended from Varangian lords and their retinue.
 
 ### Imperial Age: Druzhina
 
+#### Stats
+
  - Cost: 800 food, 400 gold
  - Research Time: 40 seconds
+
+#### Effect
+
  - [Boyar](../Units/Boyar.md)s and Izgoi improve the attack of Infantry (other than Izgoi) within 5 tiles by 3.
  - [Boyar](../Units/Boyar.md)s and Izgoi with at least 3 Infantry (other than Izgoi) or Skirmishers in a 5 tile radius deal 100% splash damage.
+
+#### History
+
  - The Druzhina was the personal retinue of a Slavic noble - a Boyar.
  - While most feudal lords had their personal retinues, not just in the East Slavic world but across the Medieval era, I chose to reference this as part of this build because the East Slavic concept of a Druzhina grew out of the personal host of a Viking lord who conquered and settled in eastern Europe.
+
+#### Gameplay
+
  - I wanted to change [the existing Druzhina tech](https://ageofempires.fandom.com/wiki/Druzhina) to give a greater focus on combined arms and soldiers fighting alongside their liege lord, rather than something that would only affect infantry. This way, neither unit type benefits without the other.
  - Given its more conditional effect, I reduced the cost slightly from the original iteration of the tech.
 
@@ -94,6 +157,9 @@
 ### Izgoi
 
  - Ruthenian unique infantry unit that is good against fortifications.
+
+#### Stats
+
  - Cost: 70 food, 20 gold
  - Non-Elite Unit Stats
    - 70 HP
@@ -117,75 +183,176 @@
    - 4 Bonus damage against [Standard Building](https://ageofempires.fandom.com/wiki/Armor_class:_Standard_building)
    - 7 Line of Sight
    - Trained in 16 seconds
+
+#### Appearance
+
  - I imagine the sprite looking a bit like the current William Wallace model, with a cape and a broadsword. The Kyivan Rus are known to have used one-sided swords, making area damage a sensible effect for it to have.  
  <img src="https://static.wikia.nocookie.net/ageofempires/images/5/5f/William_Wallace_DE_views.png" alt="Potential Izgoi appearance" width="550" height="auto" /><br />
+
+#### History
+
  - Izgoi is a term used in the Kyivan Rus for princes who were excluded from the succession. Due to a unique succession system in the Kyivan Rus, a prince could not inherit a throne not previously held by his father or older brother, and the crown often passed from brother to brother rather than father to son (agnatic seniority). This left a lot of noble sons without any prospect of inheritance. 
  - These disenfranchised princes would then commonly scheme against their uncles and cousins to claim their titles, or any other ones instead, as represented by their bonus against stone defences. Fighting as rebel factions or mercenary groups, they would gather a host around them (a **Druzhina**), and take sides in the many dynastic conflicts and succession crised that plagued the Kyivan Rus.
+
+#### Gameplay
+
  - This unit will behave largely in the same way as a slightly stronger swordsman. However, the additional food cost would not be entirely justified by the stats - compared to a Champion, they have +10HP, -1 damage, +1 melee armor, +4 bonus damage against stone defences - instead, the additional cost is intended to account for the boost they get after **Bogatyrs** and **Druzhina**.
  - The long training time is there intentionally to make them difficult to mass in Castle Age where they would otherwise be too strong. The intent is to use them like Centurions, to empower the main bulk of your army, since an army of Izgoi would not be as cost effective and would not benefit from **Druzhina**.
- - The advantage of Izgoi over Boyars is that they provide the same boost to your other units more cost effectively and without being weak to Halberdiers. Missing Bloodlines but getting more pierce armor from Gambesons probably pays off against enemy archers, but being able to afford and keep Izgoi alive as gold runs out will prove crucial for your late game potential.
+ - The advantage of Izgoi over Boyars is that they provide the same boost to your other units more cost effectively and without being weak to Halberdiers. Missing Bloodlines but getting more pierce armor from Gambesons probably pays off for your Boyars against enemy archers, but being able to afford and keep Izgoi alive as gold runs out will prove crucial for your late game potential.
 
 ## Tech Tree
 
- - Barracks
-   - Missing Eagle Warrior line.
- - Archery Range
-   - Missing Hand Cannoneer.
-     - This build is focused on a timeframe before the introduction of gunpowder to Europe.
-   - Missing Parthian Tactics.
-     - Ruthenian armies frequently made use of Polovtsy (Cuman) mercenaries (as seen in [Mstislav](https://ageofempires.fandom.com/wiki/Mstislav)), so their Cavalry Archers are viable, but glass cannons, missing both Imperial Age armor upgrades to encourage pairing with another unit type.
- - Stable
-   - Missing Bloodlines.
-     - This is a fundamental design principle of this civilization - during the period this build is focusing on, the quantity and quality of Ruthenian horses was behind many of their neighbors. They compensated for this with innovative combined arms tactics, as represented by **Zadonschina Raids** and **Druzhina**.
-   - Has access to [Boyar](../Units/Boyar.md) instead of the Knight line.
-   - Missing Camel Rider line.
-   - Missing Steppe Lancer Line.
-   - Missing Battle Elephant line.
- - Siege Workshop
-   - Missing Siege Ram.
-   - Missing Siege Onager.
-     - Heavy Siege was not commonly used on the Pontic Steppe as it would have been vulnerable to enemy cavalry raids. Mobility was key.
-   - Missing Bombard Cannon.
-     - This build is focused on a timeframe before the introduction of gunpowder to Europe.
- - Blacksmith
-   - Missing Ring Archer Armor.
-     - Largely for balance purposes, since I wanted this civ to have access to Bracer and Thumb Ring, but for their Archer-line and Cavalry Archers to be more like glass cannons than true value plays.
- - Monastery:
-   - Missing Atonement.
-     - The Christianization of the Rus was a long and complicated process and many rulers remained pagans even after their predecessors converted. There is evidence of syncretism and coexistence between Slavic paganism and Christianity into the late 10th century.
-     - While the Kyivan Rus is associated as a center of Christianity, the conversion process was slow and there were people of many cultures and faiths present. Lists of Kyivan diplomats in treaties with the Byzantines list many Finnish and Norse names in addition to Slavic ones, and makes note that some swear to the Christian god and some to their native pagan gods.
-     - For gameplay reasons, lacking both Bloodlines and Atonement leaves one slighlty vulnerable to Monks. **Bogatyrs** offsets this for Boyars specifically, but means that Monks can be used to counter siege without being counterable back. This incentivizes the use infantry and Boyars and raiding rather than, for example, Mangonels.
-   - Monks are intended to be a strength of the civilization.
- - Castle: Full
- - Market: Full
- - University
-   - Missing Bombard Tower
-   - Missing Siege Engineers
- - Dock
-   - Missing Cannon Galleon line
-     - This build is focused on a timeframe before the introduction of gunpowder to Europe.
-   - Missing Galleon
-     - Ruthenian navies were largely raiding or mercantile rather than fleets in being, which I feel like the Galleon represents most.
-   - I would emphasize the use of the Fast Fire Ship to underscore their relationship with the Byzantines, and transports to emphasize the history of raiding.
- - Mill: Full
- - Lumber Camp
-   - Missing Two-Man Saw
- - Mining Camp
-   - Missing Gold Shaft Mining
+### Barracks: Full
+
+#### History
+
+ - The Rus armies of this time were still largely infantry.
+
+#### Gameplay
+
+ - This is a focus of the civilization and accentuates their similarity to Vikings.
+
+### Archery Range:
+
+#### Availability 
+
+ - Missing Hand Cannoneer
+ - Missing Parthian Tactics
+ 
+#### History
+
+ - This build is focused on a timeframe before the introduction of gunpowder to Europe.
+ - Ruthenian armies frequently made use of Polovtsy (Cuman) mercenaries (as seen in [Mstislav](https://ageofempires.fandom.com/wiki/Mstislav)).
+
+#### Gameplay
+
+ - Cavalry Archers are viable, but glass cannons, missing both Imperial Age armor upgrades to encourage pairing with another unit type.
+
+### Stable:
+
+#### Availability 
+
+ - Missing Bloodlines.
+ - Has access to [Boyar](../Units/Boyar.md) instead of the Knight line.
+ 
+#### History
+
+ - While the Rus of this era did use horses in war, their cavalry was generally of a lower quality to that of their neighboring Cumans, Bulgars and Byzantines.
+
+#### Gameplay
+
+ - This is a fundamental design principle of this civilization - during the period this build is focusing on, the quantity and quality of Ruthenian horses was behind many of their neighbors. They compensated for this with innovative combined arms tactics, as represented by **Zadonschina Raids** and **Druzhina**.
+
+### Siege Workshop:
+
+#### Availability 
+
+ - Missing Siege Ram
+ - Missing Siege Onager
+ - Missing Bombard Cannon
+ 
+#### History
+
+ - This build is focused on a timeframe before the introduction of gunpowder to Europe.
+ - Heavy Siege was not commonly used on the Pontic Steppe as it would have been vulnerable to enemy cavalry raids. Mobility was key.
+
+#### Gameplay
+
+ - A poor siege tech tree is intended to offset the strength of their raiding, particularly the increased impact of Arson.
+
+### Blacksmith:
+
+#### Availability 
+
+ - Missing Ring Archer Armor.
+
+#### Gameplay
+
+ - Largely for balance purposes, since I wanted this civ to have access to Bracer and Thumb Ring, but for their Archer-line and Cavalry Archers to be more like glass cannons than true value plays.
+
+### Monastery:
+
+#### Availability 
+
+ - Missing Atonement.
+ 
+#### History
+
+ - The Christianization of the Rus was a long and complicated process and many rulers remained pagans even after their predecessors converted. There is evidence of syncretism and coexistence between Slavic paganism and Christianity into the late 10th century.
+ - While the Kyivan Rus is associated as a center of Christianity, the conversion process was slow and there were people of many cultures and faiths present. Lists of Kyivan diplomats in treaties with the Byzantines list many Finnish and Norse names in addition to Slavic ones, and makes note that some swear to the Christian god and some to their native pagan gods.
+
+#### Gameplay
+
+ - Monks are intended to be a strength of the civilization.
+ - For gameplay reasons, lacking both Bloodlines and Atonement leaves one slighlty vulnerable to Monks. **Bogatyrs** offsets this for Boyars specifically, but means that Monks can be used to counter siege without being counterable back. This incentivizes the use infantry and Boyars and raiding rather than, for example, Mangonels.
+
+### Castle: Full
+
+### Market: Full
+
+### University:
+
+#### Availability
+
+ - Missing Bombard Tower
+ - Missing Siege Engineers
+ 
+#### History
+
+ - This build is focused on a timeframe before the introduction of gunpowder to Europe.
+
+#### Gameplay
+
+ - A poor siege tech tree is intended to offset the strength of their raiding, particularly the increased impact of Arson.
+
+### Dock:
+
+#### Availability 
+
+ - Missing Cannon Galleon line
+ - Missing Galleon
+ 
+#### History
+
+ - This build is focused on a timeframe before the introduction of gunpowder to Europe.
+ - Ruthenian navies were largely raiding or mercantile rather than fleets in being, which I feel like the Galleon represents most.
+
+#### Gameplay
+
+ - I would emphasize the use of the Fast Fire Ship to underscore their relationship with the Byzantines, and transports to emphasize the history of raiding.
+
+### Mill: Full
+
+### Lumber Camp:
+
+#### Availability 
+
+ - Missing Two-Man Saw
+
+### Mining Camp:
+
+#### Availability 
+
+ - Missing Gold Shaft Mining
 
 ## Architecture: Eastern European
 
- - Castle Skin: [Golden Gate of Kyiv](https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv)
-   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/1920px-Golden_Gate_Kiev_2018_G1.jpg" alt="Golden Gate of Kyiv" width="550" height="auto" /><br />
-   - It was built in the 11th century, right in the middle of the scope of this build.
-   - One of the original gates of the city constructed by Yaroslav the Wise, constructed in imitation of the Golden Gate of Constantinople, it is the most prominent and unique fortification of the Kyivan Rus.
-   - The only knock against it could be that it might look too much like a Wonder with the cupola and cross on top, so maybe some artistic liberty could be taken to tone those down in the Castle sprite.
- - Wonder Skin: [Saint Sophia Cathedral in Kyiv](https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv)
-   - <img src="https://www.worldhistory.org/uploads/images/14795.jpg" alt="Saint Sophia Cathedral in Kyiv" width="550" height="auto" /><br />
-   - It's the most recognizable landmark in Kyiv and one of the grandest cathedrals in the region.
-   - It was built in the 11th century, right in the middle of the scope of this build.
-   - It is basically guaranteed to feature in any reasonable Ruthenian campaign.
- - Monk: Orthodox
+### Castle Skin:
+
+- [Golden Gate of Kyiv](https://en.wikipedia.org/wiki/Golden_Gate,_Kyiv)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Golden_Gate_Kiev_2018_G1.jpg/1920px-Golden_Gate_Kiev_2018_G1.jpg" alt="Golden Gate of Kyiv" width="550" height="auto" /><br />
+- It was built in the 11th century, right in the middle of the scope of this build.
+- One of the original gates of the city constructed by Yaroslav the Wise, constructed in imitation of the Golden Gate of Constantinople, it is the most prominent and unique fortification of the Kyivan Rus.
+- The only knock against it could be that it might look too much like a Wonder with the cupola and cross on top, so maybe some artistic liberty could be taken to tone those down in the Castle sprite.
+
+### Wonder Skin:
+- [Saint Sophia Cathedral in Kyiv](https://en.wikipedia.org/wiki/Saint_Sophia_Cathedral,_Kyiv)
+- <img src="https://www.worldhistory.org/uploads/images/14795.jpg" alt="Saint Sophia Cathedral in Kyiv" width="550" height="auto" /><br />
+- It's the most recognizable landmark in Kyiv and one of the grandest cathedrals in the region.
+- It was built in the 11th century, right in the middle of the scope of this build.
+- It is basically guaranteed to feature in any reasonable Ruthenian campaign.
+
+### Monk: Orthodox
 
 ## Language: [Old East Slavic](https://en.wikipedia.org/wiki/Old_East_Slavic)
 

@@ -12,7 +12,7 @@
  - Available in Castle Age
  - Non-Elite Unit Stats
    - 100 Hit Points
-   - 12 melee damage
+   - 11 melee damage
    - 1.9 Reload time
    - 4/2 Armor
    - 0 [Cavalry Armor](https://ageofempires.fandom.com/wiki/Armor_class:_Cavalry)

@@ -33,62 +33,123 @@
 
 ## Civilization Bonuses
 
- - **Fur Trade**
-   - Hunters deposit additional gold equal to 20% of the food being deposited.
-   - Scouts and Cavalry Archers can gather from huntable animals, with 2x the carry capacity of a Villager.
-   - This is largely a callback to the Age of Empires 4 version of the Rus, which have a similar bonus.
-   - While not unique among fur trading centers, the prevalence and volume of fur trading in the region provides some historical justification to the bonus. Fur trading was one of the first institutions implemented in newly conquered territories as Muscovy/Russia expanded eastward.
-   - This is intended to provide the Muscovites with a strong Dark Age and encourage either drushing or encourage Feudal Scout play.
-   - This will provide around 200 gold in a typical Dark Age, which is on par with bonuses like the Portuguese, Japanese, Ethiopians and others. Given that it’s gold, it provides the potential for an extended Militia rush or Man At Arms rush, or Fast Castling without needing to build a Mining Camp. However, unlike these other similar bonuses, it does not provide economic benefit, since eco upgrades don’t cost gold - it must be used aggressively.
- - **Detinets**
-   - 40% of the stone cost of Castles and Towers is replaced with wood.
-   - This is a straight port of the [current Slavs unique tech](https://ageofempires.fandom.com/wiki/Detinets).
-   - In northern Russia, most defences were wood rather than stone, and Muscovy controlled a large network of fortifications across their territory.
-   - While the tech currently has a decent effect for expanding with Castles in the mid to late game, the fact that it requires a Castle to be researched means that expansion across the map is slower and in some situations it might not pay off to go for an early Castle at all. This is intended to make that decision easier and provide greater flexibility with regards to your eco layout.
-   - A hidden defensive aspect of this bonus is that you need fewer stone miners, meaning a smaller proportion of your economy is exposed in distant stone mines where they can be picked off, especially before your first Castle.
- - **Open Terrain Siegecraft**
-   - Siege Workshop units are 15% cheaper.
-   - This is also a straight port of the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus. It will work differently here due to the differences in tech tree (Slavs get Siege Onager and Siege Ram but not Bombard Cannon).
-   - This is also intended to play into the quantity over quality approach that the Muscovites have with their defences. 
-   - The historical justification here is a bit tenuous - siege weapons are easier to drive over vast open terrain, and are less prone to break down and need repairs. While this is not at all unique to the Muscovites, it is notable for them due to the extent of their conquests, and the abundance of wood in their native lands that would make building siege weapons easier. Secondarily, this might be justified by the artillery foundries of Smolensk as the reasoning behind cheap Bombard Cannons, though that only kicked in historically at the start of the 17th century, after the AoE2 timeframe.
-   - The gameplay justification here is that without this, the game plan would revolve around Cavalry and Castles basically every game, since no other option would offer any advantage, with only potential Crossbows or Monks as a subversive tech switch rather than an actual strong point. This is an alternative to that, and now opens the civ up to multiple new strategies.
-   - Additionally, given your defensive buildings cost a decent amount of wood now, I wanted to somewhat dampen the inherent dependence this civilization would have on a large wood economy. While it would make historical sense for them to struggle on wood-light maps, they should not be crippled by that significantly more than a generic civilization - only slightly more.
+### Fur Trade
+
+#### Effect
+ - Hunters deposit additional gold equal to 20% of the food being deposited.
+ - Scouts and Cavalry Archers can gather from huntable animals, with 2x the carry capacity of a Villager.
+
+#### History
+
+ - While not unique among fur trading centers, the prevalence and volume of fur trading in the region provides some historical justification to the bonus. Fur trading was one of the first institutions implemented in newly conquered territories as Muscovy/Russia expanded eastward.
+ - This is largely a callback to the Age of Empires 4 version of the Rus, which have a similar bonus.
+
+#### Gameplay
+
+ - This is intended to provide the Muscovites with a strong Dark Age and encourage either drushing or encourage Feudal Scout play.
+ - This will provide around 200 gold in a typical Dark Age, which is on par with bonuses like the Portuguese, Japanese, Ethiopians and others. Given that it’s gold, it provides the potential for an extended Militia rush or Man At Arms rush, or Fast Castling without needing to build a Mining Camp. However, unlike these other similar bonuses, it does not provide economic benefit, since eco upgrades don’t cost gold - it must be used aggressively.
+
+### Detinets
+
+#### Effect
+
+ - 40% of the stone cost of Castles and Towers is replaced with wood.
+
+ #### History
+ - In northern Russia, most defences were wood rather than stone, and Muscovy controlled a large network of fortifications across their territory.
+ - This is a straight port of the [current Slavs unique tech](https://ageofempires.fandom.com/wiki/Detinets).
+
+ #### Gameplay
+
+ - While the tech currently has a decent effect for expanding with Castles in the mid to late game, the fact that it requires a Castle to be researched means that expansion across the map is slower and in some situations it might not pay off to go for an early Castle at all. This is intended to make that decision easier and provide greater flexibility with regards to your eco layout.
+ - A hidden defensive aspect of this bonus is that you need fewer stone miners, meaning a smaller proportion of your economy is exposed in distant stone mines where they can be picked off, especially before your first Castle.
+
+### Open Terrain Siegecraft
+
+#### Effect
+
+ - Siege Workshop units are 15% cheaper.
+
+#### History
+
+ - This is also a straight port of the current [Slavs](https://ageofempires.fandom.com/wiki/Slavs) bonus. It will work differently here due to the differences in tech tree (Slavs get Siege Onager and Siege Ram but not Bombard Cannon).
+ - The historical justification here is a bit tenuous - siege weapons are easier to drive over vast open terrain, and are less prone to break down and need repairs. While this is not at all unique to the Muscovites, it is notable for them due to the extent of their conquests, and the abundance of wood in their native lands that would make building siege weapons easier. Secondarily, this might be justified by the artillery foundries of Smolensk as the reasoning behind cheap Bombard Cannons, though that only kicked in historically at the start of the 17th century, after the AoE2 timeframe.
+
+#### Gameplay
+
+ - This is also intended to play into the quantity over quality approach that the Muscovites have with their defences. 
+ - The gameplay justification here is that without this, the game plan would revolve around Cavalry and Castles basically every game, since no other option would offer any advantage, with only potential Crossbows or Monks as a subversive tech switch rather than an actual strong point. This is an alternative to that, and now opens the civ up to multiple new strategies.
+ - Additionally, given your defensive buildings cost a decent amount of wood now, I wanted to somewhat dampen the inherent dependence this civilization would have on a large wood economy. While it would make historical sense for them to struggle on wood-light maps, they should not be crippled by that significantly more than a generic civilization - only slightly more.
 
 ## Team Bonus
 
- - **Life on the Frontier**
-   - All units and buildings +1 Line of Sight.
-   - While today we consider medieval Russia to be a land on the outer fringes of civilization, this is largely because we don't know a lot about their neighbors. Rather than refer to a frontier between civilization and barbarism, this refers to efficiently taming a land that had very little in the way of prior infrastructure - as opposed to places like the Mediterranean, Middle East, South Asia and East Asia, where large and complex civilizations had already existed.
-   - We see very early (for the region) examples of artisanship, road and river travel and commerce, and interconnected cities built by tribes in what would become the Moscow region, like the Vyatichi and the Krivichi.
-   - I didn't like the idea of another bonus referencing trade, so instead I aggregated all these "infrastructure" related specifics into a bonus that would be a significant help when exploring the map, sending villagers forward and expanding to more Town Centers, all things that would be representative of a historical Muscovite early game.
-   - A significant number of distinct tribes existed in a fairly interconnected system because of this, so I figured it would make sense as a Team Bonus.
+### Life on the Frontier
+
+#### Effect
+
+ - All units and buildings +1 Line of Sight.
+
+#### History
+
+ - While today we consider medieval Russia to be a land on the outer fringes of civilization, this is largely because we don't know a lot about their neighbors. Rather than refer to a frontier between civilization and barbarism, this refers to efficiently taming a land that had very little in the way of prior infrastructure - as opposed to places like the Mediterranean, Middle East, South Asia and East Asia, where large and complex civilizations had already existed.
+ - We see very early (for the region) examples of artisanship, road and river travel and commerce, and interconnected cities built by tribes in what would become the Moscow region, like the Vyatichi and the Krivichi.
+
+#### Gameplay
+
+ - I didn't like the idea of another bonus referencing trade, so instead I aggregated all these "infrastructure" related specifics into a bonus that would be a significant help when exploring the map, sending villagers forward and expanding to more Town Centers, all things that would be representative of a historical Muscovite early game.
+ - A significant number of distinct tribes existed in a fairly interconnected system because of this, so I figured it would make sense as a Team Bonus.
 
 ## Unique Techs
 
 ### Castle Age: Oprichnina
 
+#### Stats
+
  - Cost: 300 food, 400 gold
  - Research Time: 40 seconds
+
+ #### Effect
  - Cavalry deal +3 damage against Villagers, Trade Units, [Monks](https://ageofempires.fandom.com/wiki/Armor_class:_Monk), [Heavy Cavalry](../ArmorClasses/HeavyCavalry.md) and [buildings](https://ageofempires.fandom.com/wiki/Armor_class:_Building).
- - The Oprichnina was a political police organization and personal guard of Tsar Ivan IV, intended to target any disloyal nobles within newly conquered territories. This included seizing land, resettling populations and confiscating wealth.
- - This is intended to provide the Muscovites with powerful raiding options in the mid game, as well as offset weaknesses against enemy Heavy Cavalry, given that Muscovites lack both Camels and Halberdiers.
  - This does not affect Cavalry Archers, only the Scout, [Boyar](../Units/Boyar.md) and Lancer lines at the Stable.
+
+#### History
+
+ - The Oprichnina was a political police organization and personal guard of Tsar Ivan IV, intended to target any disloyal nobles within newly conquered territories. This included seizing land, resettling populations and confiscating wealth.
+
+#### Gameplay
+
+ - This is intended to provide the Muscovites with powerful raiding options in the mid game, as well as offset weaknesses against enemy Heavy Cavalry, given that Muscovites lack both Camels and Halberdiers.
 
 ### Imperial Age: Tatar Mercenaries
 
+#### Stats
+
  - Cost: 800 food, 800 wood
  - Research Time: 25 seconds
+
+#### Effect
+
  - Cavalry Archers receive +1 attack and range, and +1/+1 armor.
  - Cavalry Archer wood cost changed to gold.
  - Cavalry Archers can be trained at Castles.
+
+#### History
+
  - As Muscovy expanded into the territories of the Golden Horde, they had absorbed massive populations of Cumans, Tatars and other Turkic peoples. The import and utilization of nomadic style warfare and exploration would allow Russia to rapidly expand south to the Caspian and east into Siberia, with small elite cavalry corps maintaining control across the vast territories.
- - Gameplay wise, this is intended to remove a key weakness of the current Slavs design, namely that they have no good ranged options at all other than maybe Scorpions. I intended to design the Muscovites around lacking Bracer as well, but having at least decent ranged options to supplement their strong cavalry.
+
+#### Gameplay
+
+ - This is intended to remove a key weakness of the current Slavs design, namely that they have no good ranged options at all other than maybe Scorpions. I intended to design the Muscovites around lacking Bracer as well, but having at least decent ranged options to supplement their strong cavalry.
  - This is by all means a tradeoff rather than a strict bonus, and at 100 gold each this will not be worth it every game, but playing to your strengths and maintaining map control with Castles all over the map will let you keep your precious numbers alive by garrisoning. Utilizing Tatar Cavalry Archers to control patrol a map laden with fortifications guarding your trade routes will be very historically appropriate.
  - Yes, these are intended to be stat-wise equivalent to fully upgraded Tatar Cavalry Archers.
 
 ## Unique Units
 
 ### Strelet
+
+ - Cheap, light gunpowder unit
+
+#### Stats
 
  - Cost: 10 food, 40 gold
  - Non-Elite Unit Stats
@@ -115,96 +176,178 @@
    - 14 pierce attack
    - 8 range
    - 80% accuracy
+
+#### History
+
  - The Streltsy were a gunpowder infantry corps founded by Tsar Ivan IV. While large, lack of choice in recruiting and poor pay reduced their effectiveness. They were noted to be armed primarily with arquebuses, and secondarily with poleaxes or sabres.
+
+#### Gameplay
+
  - This all translates to their design - they are a cheaper, weaker gunpowder unit - something yet unexplored in AoE2. They have a low food cost to represent that they often worked as farmers or tradesmen to supplement their income, and their formation is a product of Russian centralization of power, making them a sensible choice for a unit trained at a Castle.
  - Compared to a Hand Cannoneer, they have significantly worse stats, but also cost almost half the total resources. Their only advantages on a per-unit basis are slightly faster movement, and 1 more range and 5% more accuracy in Imperial Age.
  - The intent with the Streltsy is to provide cheap back-line support in Castle Age. While the Muscovites do have decent Crossbowmen, Streltsy require no upgrades and can be upgraded in the Imperial Age, and the cheapness of Muscovite Castles largely offsets the usual issues with massing unique units. This allows the player to invest more resources into cavalry while having the same support against enemy Pikemen, while in turn the cavalry protects the incredibly squishy Streltsy from enemy siege.
  - This unit has a notable weakness to Winged Hussars due to its low hit points and the Winged Hussars' bonus damage. This is intended as a historical nod to the Polish-Lithuanian victory in the [Polish–Russian War (1609–1618)](https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618)), during which they would briefly occupy Moscow, the only foreign power after the Mongol Empire to ever do so.
- - Approximate appearance:  
-   - Based on the figure depicted on the right here:  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Russian_Strieltsy.JPG" alt="Streltsy" width="30%" height="auto" /><br />
-   - The yellow overcoat would change with player colour, while the details, including the undercoat, cap, cuffs, and bands would remain red. This is intended to provide visual distinctness, similarly to how the Berserk's orange beard and hair contrast with the colour of their capes, making them instantly recognizable in a crowd.
-   - I think it would be an interesting detail to have their model show both their pollaxes and arquebuses - carrying the pollaxe in their hands and the arquebus over the shoulder when marching, and using the pollaxe to support the arquebus when shooting, but that might just be too much going on and could hurt visual distinctiveness. Alternatively, they could just carry their arquebuses the whole time, but the model should definitely display a sabre as a sidearm.
+
+#### Appearance
+
+ - Based on the figure depicted on the right in this illustration:  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Russian_Strieltsy.JPG" alt="Streltsy" width="30%" height="auto" /><br />
+ - The yellow overcoat would change with player colour, while the details, including the undercoat, cap, cuffs, and bands would remain red. This is intended to provide visual distinctness, similarly to how the Berserk's orange beard and hair contrast with the colour of their capes, making them instantly recognizable in a crowd.
+ - I think it would be an interesting detail to have their model show both their pollaxes and arquebuses - carrying the pollaxe in their hands and the arquebus over the shoulder when marching, and using the pollaxe to support the arquebus when shooting, but that might just be too much going on and could hurt visual distinctiveness. Alternatively, they could just carry their arquebuses the whole time, but the model should definitely display a sabre as a sidearm.
 
 ## Tech Tree
 
- - Barracks:
-   - Missing the Eagle Line.
+### Barracks:
+
+#### Availability 
+
    - Missing Halberdier.
-     - This is primarily for gameplay considerations, as Muscovy and later Russia did field Halberdiers. If they did get Halberdiers, they would be very strong in trash wars, given Champions are also fully upgraded, Hussars are better than generic and Siege, while not fully upgraded, is discounted.
-     - This will be a notable consideration against other good Hussar civs and is why Oprichnina specifies bonus damage against Knights rather than all Cavalry.
- - Archery Range
+
+#### Gameplay
+
+  - This is primarily for gameplay considerations, as Muscovy and later Russia did field Halberdiers. If they did get Halberdiers, they would be very strong in trash wars, given Champions are also fully upgraded, Hussars are better than generic and Siege, while not fully upgraded, is discounted.
+  - This will be a notable consideration against other good Hussar civs and is why Oprichnina specifies bonus damage against Knights rather than all Cavalry.
+
+### Archery Range:
+
+#### Availability 
+
    - Missing Hand Cannoneer.
-     - The Streltsy are intended to be a full replacement for the Hand Cannoneer.
    - Missing Arbalester.
-     - For gameplay considerations, I intended the Muscovites to have generic Crossbowmen in Castle Age, as an alternative to the Streltsy, but for there to be a dilemma due to them missing key upgrades in the Imperial Age.
- - Stable
-   - Missing Battle Elephant line.
-   - Missing Camel Rider line.
-   - Has access to [Boyar](../Units/Boyar.md) instead of the Knight line.
-     - Given the focus on cavalry and the Oprichnina unique tech, they would probably be among the best Boyars of any civ that would get them.
- - Siege Workshop
-   - Missing Siege Ram.
-   - Missing Siege Onager.
- - Blacksmith
-   - Missing Bracer.
- - Monastery
-   - Missing Heresy.
-     - Muscovy was an Orthodox Christian realm far from the schisms and heresies of medieval Europe. Its Boyars were known to switch sides in internal conflicts.
-     - In gameplay terms, this would keep Monks as a vulnerability against their very strong heavy cavalry, and would require the use of Cavalry Archers or Strelets to effectively snipe Monks.
-   - Missing Atonement.
-     - Again, the Orthodox Christian church of Muscovy was far removed from any heresies and had no need to convert heretics, just heathens.
-     - In gameplay terms, this is to keep Monks good against siege by having Block Printing, but not having the option to counter enemy Monk play with your own Monks. This is also somewhat intended to discourage mass Monks alongside heavy cavalry.
- - Castle
-   - Missing Hoardings.
-     - I was going for a quantity over quality approach in the Muscovites' forward defensive playstyle.
-   - Missing Sappers.
-     - This is primarily to account for the cheap siege. The cold, hard, flat ground of the Eurasian plain is not incredibly suitable to tunneling efforts, and the Muscovites have two other advantages in this area.
- - Market: Full
- - University
-   - Missing Architecture.
-   - Missing Siege Engineers.
-   - Missing Bombard Tower.
-   - Missing Keep.
- - Dock
-   - Missing Shipwright.
-   - Missing Elite Cannon Galleon.
-   - Missing Dry Dock.
- - Mill: Full
- - Lumber Camp: Full
- - Mining Camp: Full
+
+#### Gameplay
+
+ - The Streltsy are intended to be a full replacement for the Hand Cannoneer.
+ - For gameplay considerations, I intended the Muscovites to have generic Crossbowmen in Castle Age, as an alternative to the Streltsy, but for there to be a dilemma due to them missing key upgrades in the Imperial Age.
+
+### Stable:
+
+#### Availability 
+
+ - Has access to [Boyar](../Units/Boyar.md) instead of the Knight line.
+ - Has access to the Steppe Lancer.
+ 
+#### History
+
+ - Cavalry was ever present on the great Eurasian plain. Accounts of battles between the Muscovites and Mongols from the 14th century onwards describe their armies being basically identically structured.
+
+#### Gameplay
+
+ - Given the focus on cavalry and the Oprichnina unique tech, the Muscovite Boyars would probably be among the best of any civ that would get them, and a strong contender for the strongest heavy cavalry in the game head-to-head. This is balanced by Muscovites missing Heresy.
+
+### Siege Workshop:
+
+#### Availability 
+
+ - Missing Siege Ram.
+ - Missing Siege Onager.
+
+### Blacksmith:
+
+#### Availability 
+
+ - Missing Bracer.
+
+### Monastery:
+
+#### Availability 
+
+ - Missing Heresy.
+ - Missing Atonement.
+ 
+#### History
+
+ - Muscovy was an Orthodox Christian realm far from the schisms and heresies of medieval Europe.
+ - Muscovite proselytizing was primaily focused on heathens rather than heretics, and the efforts of the church were focused internally rather than externally.
+ - Boyars were known to switch sides in internal conflicts for their own benefit.
+
+#### Gameplay
+
+ - Missing Heresy would keep Monks as a vulnerability against their very strong heavy cavalry, and would require the use of Cavalry Archers or Strelets to effectively snipe Monks.
+ - Missing Atonement but not Block Printing or Redemption would keep Monks good against siege, but not having the option to counter enemy Monk play with your own Monks. This is also somewhat intended to discourage mass Monks alongside heavy cavalry.
+
+### Castle:
+
+#### Availability 
+
+ - Missing Hoardings.
+ - Missing Sappers.
+ 
+#### History
+
+  - The cold, hard, flat ground of the Eurasian plain is not incredibly suitable to tunneling efforts, and the Muscovites have two other advantages in this area.
+
+#### Gameplay
+
+ - This is primarily to account for the cheap siege.
+ - I was going for a quantity over quality approach in the Muscovites' forward defensive playstyle.
+
+### Market: Full
+
+### University:
+
+#### Availability
+
+ - Missing Architecture.
+ - Missing Siege Engineers.
+ - Missing Bombard Tower.
+ - Missing Keep.
+
+#### Gameplay
+
+ - Cheap Bombard Cannons with Siege Engineers would have been too strong I think.
+ - Muscovites are incentivized to go for Castles rather than Towers.
+ - Missing Architecture for balance reasons. If testing proved that Muscovites were weak, I would consider adding it.
+
+### Dock:
+
+#### Availability
+
+ - Missing Shipwright.
+ - Missing Elite Cannon Galleon.
+ - Missing Dry Dock.
+ 
+#### History
+
+ - Muscovy and later Russia were never significant naval powers. With few if any warm water ports, their navy would be largely confined to the many rivers of the Eurasian plain.
+
+#### Gameplay
+
+ - While their fleets aren't significantly weaker than those of other civilizations, keeping their numbers and presence up is intended to parallel history to an extent.
+
+### Mill: Full
+
+### Lumber Camp: Full
+
+### Mining Camp: Full
 
 ## Architecture
 
- - The most obvious choice would be the **Eastern European** architecture set, and it would work almost perfectly.
-   - It was primarily designed for the Slavs and Magyars in the Forgotten expansion.
-   - It is largely Russian inspired, with slanted roofs and an emphasis on wood in the Feudal Age.
-   - *However*, the buildings themselves look very plain and uninteresting compared to other architecture sets and could be improved on, and by the Castle Age as the Brick Gothic style takes over, I think it starts to look too much like Eastern Central Europe - parts of Germany, Poland, Hungary, Ukraine, Romania - rather than Northern Europe, and I think an alternative could be designed.
+### Option 1: **Eastern European**
 
- - The **North European** architecture set (new):
-   - The aesthetic of this set would focus more on tall slanted roofs with decorations, small windows, with more rounded shapes and a more diverse colour palette than the Eastern European Feudal Age - at least until the Imperial Age, by which time they would start to take on a more Early Modern appearance.
-   - Not too dissimilar to the current Viking and Slavs wonders, but *more* so.
-   - In addition to the Muscovites and Novgorodians (but not Ruthenians), this architecture set would be used by the current Vikings (or any of their splits), as well as any new civilizations representing Uralic peoples, such as Finns, Sámi, Vepsians, Mordvins, Permians, Estonians etc. 
-   - I have found the example below in [a collection of paintings that are very clearly fantasy](https://nevsepic.com.ua/en/painting/34507-vedic-rus-by-vsevolod-ivanov-35-photos.html), but some of them embody an aesthetic that I think would fit very neatly with the history, as well as being very visually distinctive from other architecture sets.  
-   <img src="https://cp16.nevsepic.com.ua/post/46/705_files/128323ab7dfbbeb37fd64291a6d22782.jpg" alt="Perhaps looking a little something like this" width="550" height="auto" /><br />
-   - A more historically grounded example: [The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov](https://rusmania.com/history-of-russia/14th-century)  
-   <img src="https://rusmania.com/perch/resources/moscow-kalita-vasnetsov.jpg" alt="The Moscow Kremlin in the 14th century, by Apollinary Vasnetsov" width="550" height="auto" /><br />
+ - The most obvious choice, and it would work almost perfectly.
+ - It was primarily designed for the Slavs and Magyars in the Forgotten expansion.
+ - It is largely Russian inspired, with slanted roofs and an emphasis on wood in the Feudal Age.
+ - *However*, the buildings themselves look very plain and uninteresting compared to other architecture sets and could be improved on, and by the Castle Age as the Brick Gothic style takes over, I think it starts to look too much like Eastern Central Europe - parts of Germany, Poland, Hungary, Ukraine, Romania - rather than Northern Europe, and I think an alternative could be designed.
 
- - Castle Skin
-   - It is clear that for most of the time scope of this build, the Muscovites would have used primarily wooden fortifications, which is also referenced in the Detinets bonus. While most of the cost of Castles remains stone for gameplay purposes, aesthetically the sprite should be largely wooden.
-   - The Age of Empires 2 idea of what a Castle should be - a single monolithic structure used for defence - is not something that all places in the world had, and Muscovite fortifications were primarily walls with ramparts and towers. Anything remotely Castle-like I could find was either significantly more modern, fake, actually built by the Teutonic Order or Sweden, or in the region that would be covered by the Novgorodians civilization. This makes sense, given how warfare in the steppe differed from the Baltics and Scandinavia.
-   - As such, the Muscovites might be the first civ where an Age of Empires 2 alpha-style Castle sprite, with a clear interior courtyard surrounded by walls, might actually be justified, though with more appropriate wall and roof styles, as shown above regarding the architecture set:  
-   <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="550" height="auto" /><br />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="550" height="auto" /><br />
-   - Alternatively some creative liberties could be taken to make it look more like what an Age of Empires 2 player would expect a Castle to look like.
- - Wonder Skin:
-   - [Cathedral of Saint Basil the Blessed](https://www.britannica.com/topic/Saint-Basil-the-Blessed)  
-   <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="550" height="auto" /><br />
-   <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="550" height="auto" /><br />
-   - It is by far the most recognizable building in Russia, it has a very unique appearance and was completed within the AoE2 timeframe in 1561. It is evocative of the time period which this build focuses on, and could even feature in a Campaign scenario.
-   - Alternatively, if one wanted to focus on an older period of Muscovite history, [Dormition Cathedral](https://ageofempires.fandom.com/wiki/Dormition_Cathedral) is already in the game as a scenario editor building, so that sprite could be used. However, I think this style of cathedral is better suited as a Wonder for the [Novgorodians](https://www.youtube.com/watch?v=aDDo0P-djQ0&t=615s).  
-   <img src="https://thumbs.dreamstime.com/b/dormition-cathedral-also-known-as-assumption-russian-orthodox-church-dedicated-to-theotokos-located-square-99836403.jpg" alt="Dormition Cathedral Moscow" width="550" height="auto" /><br />
-   <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="550" height="auto" /><br />
+### Option 2: [**North European**](../Architecture/NorthEuropean.md)
+
+### Castle Skin
+ - It is clear that for most of the time scope of this build, the Muscovites would have used primarily wooden fortifications, which is also referenced in the Detinets bonus. While most of the cost of Castles remains stone for gameplay purposes, aesthetically the sprite should be largely wooden.
+ - The Age of Empires 2 idea of what a Castle should be - a single monolithic structure used for defence - is not something that all places in the world had, and Muscovite fortifications were primarily walls with ramparts and towers. Anything remotely Castle-like I could find was either significantly more modern, fake, actually built by the Teutonic Order or Sweden, or in the region that would be covered by the Novgorodians civilization. This makes sense, given how warfare in the steppe differed from the Baltics and Scandinavia.
+ - As such, the Muscovites might be the first civ where an Age of Empires 2 alpha-style Castle sprite, with a clear interior courtyard surrounded by walls, might actually be justified, though with more appropriate wall and roof styles, as shown above regarding the architecture set:  
+ <img src="https://forums.ageofempires.com/uploads/default/optimized/3X/4/2/4267edbb76c6aaeb7b8d61926f9b50736045a65d_2_690x459.jpeg" alt="Age of Empires 2 Alpha Build Western European Castle" width="550" height="auto" /><br />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Lissner.jpg" alt="The Poles surrender the Moscow Kremlin to Prince Pozharsky in 1612. Painting by Ernst Lissner." width="550" height="auto" /><br />
+ - Alternatively some creative liberties could be taken to make it look more like what an Age of Empires 2 player would expect a Castle to look like.
+
+### Wonder Skin:
+ - [Cathedral of Saint Basil the Blessed](https://www.britannica.com/topic/Saint-Basil-the-Blessed)  
+ <img src="https://cdn.britannica.com/48/5848-050-6292F88D/Cathedral-of-St-Basil-the-Blessed-Moscow.jpg" alt="Cathedral of Saint Basil the Blessed" width="550" height="auto" /><br />
+ <img src="https://static.wikia.nocookie.net/riseofnations/images/2/28/RoN_Wonder_Kremlin.png/revision/latest" alt="Perhaps looking a little something like this" width="550" height="auto" /><br />
+ - It is by far the most recognizable building in Russia, it has a very unique appearance and was completed within the AoE2 timeframe in 1561. It is evocative of the time period which this build focuses on, and could even feature in a Campaign scenario.
+ - Alternatively, if one wanted to focus on an older period of Muscovite history, [Dormition Cathedral](https://ageofempires.fandom.com/wiki/Dormition_Cathedral) is already in the game as a scenario editor building, so that sprite could be used. However, I think this style of cathedral is better suited as a Wonder for the [Novgorodians](https://www.youtube.com/watch?v=aDDo0P-djQ0&t=615s).  
+ <img src="https://thumbs.dreamstime.com/b/dormition-cathedral-also-known-as-assumption-russian-orthodox-church-dedicated-to-theotokos-located-square-99836403.jpg" alt="Dormition Cathedral Moscow" width="550" height="auto" /><br />
+ <img src="https://static.wikia.nocookie.net/ageofempires/images/7/75/AoE2_Dormition_Cathedral.png/revision/latest" alt="Dormition Cathedral currently in AoE2" width="550" height="auto" /><br />
 
 ## Language: Middle Russian
 
@@ -328,7 +471,11 @@
 
 ### 6. The Great Unknown
 
- - The sixth scenario would showcase the conquest of Siberia by Yermak Timofeyevich, which would be only the [second time](https://ageofempires.fandom.com/wiki/Drake) that Age of Empires 2 stole a scenario setting from [an Age of Empires 3 historical battle](https://ageofempires.fandom.com/wiki/Chuvash_Cape). You would start with Yermak as a hero and and a limited force of cavalry and would need to conquer your initial base before expanding further. You will get some villagers but cannot build anything other than military buildings. An AI ally will spawn in and will build small towns and villages in areas that you have secured and will then send you resources. You must build a series of forts across Siberia and will win when your ally has finished building all of their bases - losing progress if you fail to defend them from the constant raids. With limited resources and a huge map, you will need to depend on your Cavalry and newly minted Tatar Mercenary Cavalry Archers to supplement your Castles when defending your ally.
+ - The sixth scenario would showcase the conquest of Siberia by Yermak Timofeyevich, which would be only the [second time](https://ageofempires.fandom.com/wiki/Drake) that Age of Empires 2 stole a scenario setting from [an Age of Empires 3 historical battle](https://ageofempires.fandom.com/wiki/Chuvash_Cape).
+ - You would start with Yermak as a hero and and a limited force of cavalry and would need to conquer your initial base before expanding further. You will get some villagers but cannot build anything other than military buildings.
+ - An AI ally will spawn in and will build small towns and villages in areas that you have secured and will then send you resources.
+ - You must build a series of forts across Siberia and will win when your ally has finished building all of their bases - losing progress if you fail to defend them from the constant raids.
+ - With limited resources and a huge map, you will need to depend on your Cavalry and newly minted Tatar Mercenary Cavalry Archers to supplement your Castles when defending your ally.
  - This scenario will feature the Muscovites for your settlers, Tatars for a main enemy that will raid you, Huns as the Yeniseans (obviously) as a secondary enemy that will raid you in a different part of the map, the Mongols as a third enemy that will raid you in the last part of the map, and could maybe feature a small Chinese outpost at the far end of the map for flavor or a sidequest.
  - Ivan the Terrible dies in 1584 around the time of the conquest of Siberia, so this would be fitting as a last scenario. However…
 
@@ -339,13 +486,13 @@
  - Except, we are not playing as Feodor Ivanovich. We are playing as one of a number of different Boyars (in a manner similar to [Nobunaga](https://ageofempires.fandom.com/wiki/Nobunaga)), starting out as loyal vassals, but secretly vying to take the throne. This could play out in any number of ways, either seizing the throne from the inept tsar directly, and then securing your rule, or waiting for him to die and taking control more diplomatically. This would have some similarities to [Robert](https://ageofempires.fandom.com/wiki/Robert), but in this case I would make at least some conflict inevitable - the other Boyars also have the same goals as you, after all, rather than being just passive players.
  - This scenario would feature primarily Muscovites and Novgorodians, with possibly one minor Ruthenian faction, and Poles and Vikings (or one of their splits) representing Polish and Swedish interventions if there isn’t a clear winner by some time. These interventions would technically be representing events beyond 1600, but this is a “bonus” scenario dealing in alternative history anyway, so I’m not particularly concerned with that.
 
- ### Potential for a Grand Campaign
+### Potential for a Grand Campaign
 
-  - An expansion featuring Muscovites, Ruthenians and Novgorodians would be well suited to have a Grand Campaign, since the three civilizations all had their zenith at different times, and a story could be told of the evolution of the Rus, from Rurik to Romanov, following the rise and fall of these three powers.
-    1. A prologue scenario, playing as the Vikings, led by Rurik, exploring this strange new eastern land, with many sidequests and ways to obtain a base - in the style of [Ragnar](https://ageofempires.fandom.com/wiki/Ragnar), [Finehair](https://ageofempires.fandom.com/wiki/Finehair), [Ironside](https://ageofempires.fandom.com/wiki/Ironside) or [Honfoglalas](https://ageofempires.fandom.com/wiki/Honfoglal%C3%A1s_(Definitive_Edition)), mixing RPG elements into the RTS gameplay. This is intended to set the scene for the story of the following scenarios.
-    2. A set of scenarios playing as the Ruthenians, set between the 9th and the 11th century, showcasing the establishment of the Kievan Rus, their conflicts with the Pechenegs, their ties to the Byzantine Empire, culminating with the death of Yaroslav I.
-    3. A set of scenarios about the Republic of Novgorod, with a particular showcase of Alexander Nevsky and conflicts with the Baltic Crusaders, Finns, and Swedes, culminating in defending the city from both Lithuania and Muscovy.
-    4. The aforementioned campaign centered on Ivan the Terrible.
+ - An expansion featuring Muscovites, Ruthenians and Novgorodians would be well suited to have a Grand Campaign, since the three civilizations all had their zenith at different times, and a story could be told of the evolution of the Rus, from Rurik to Romanov, following the rise and fall of these three powers.
+   1. A prologue scenario, playing as the Vikings, led by Rurik, exploring this strange new eastern land, with many sidequests and ways to obtain a base - in the style of [Ragnar](https://ageofempires.fandom.com/wiki/Ragnar), [Finehair](https://ageofempires.fandom.com/wiki/Finehair), [Ironside](https://ageofempires.fandom.com/wiki/Ironside) or [Honfoglalas](https://ageofempires.fandom.com/wiki/Honfoglal%C3%A1s_(Definitive_Edition)), mixing RPG elements into the RTS gameplay. This is intended to set the scene for the story of the following scenarios.
+   2. A set of scenarios playing as the Ruthenians, set between the 9th and the 11th century, showcasing the establishment of the Kievan Rus, their conflicts with the Pechenegs, their ties to the Byzantine Empire, culminating with the death of Yaroslav I.
+   3. A set of scenarios about the Republic of Novgorod, with a particular showcase of Alexander Nevsky and conflicts with the Baltic Crusaders, Finns, and Swedes, culminating in defending the city from both Lithuania and Muscovy.
+   4. The aforementioned campaign centered on Ivan the Terrible.
 
 ### Narrator
 

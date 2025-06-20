@@ -13,7 +13,7 @@
  - Other builds consulted
  - Other design related notes
 
- ## Name
+## Name
 
  - Chosen name source
  - Chosen name justification
@@ -26,50 +26,112 @@
 
 ## Civilization Bonuses
 
- - Bonus Name
-   - Bonus Effect
-   - ...
-   - Note on Bonus
-   - ...
+### Bonus Name
+
+#### Effect
+
+ - Bonus Effect
  - ...
+
+#### History
+
+ - Note on Bonus
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+ ### ...
 
 ## Team Bonus
 
- - Team Bonus Name
-   - Team Bonus Effect
-   - ...
-   - Note about Team Bonus
-   - ...
+### Team Bonus Name
+
+#### Effect
+
+ - Bonus Effect
+ - ...
+
+#### History
+
+ - Note on Bonus
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
 
 ## Unique Techs
 
 ### Castle Age: Tech Name
 
+#### Stats
+
  - Tech Cost
  - Tech Research Time in Seconds
+
+#### Effects
+
  - Tech Effect
  - ...
- - Note on the Tech
+
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
  - ...
 
 ### Imperial Age: Tech Name
 
- - Tech Cost
- - Tech Research Time in Seconds
- - Tech Effect
- - ...
- - Note on the Tech
- - ...
-
-### Other Unique Tech Name
+#### Stats
 
  - Researching building
  - Age availability
  - Tech Cost
  - Tech Research Time in Seconds
+
+#### Effects
+
  - Tech Effect
  - ...
- - Note on the Tech
+
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Other Unique Tech Name
+
+#### Stats
+
+ - Tech Cost
+ - Tech Research Time in Seconds
+
+#### Effects
+
+ - Tech Effect
+ - ...
+
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
  - ...
 
 ## Unique Units
@@ -77,6 +139,9 @@
 ### Unique Unit Name
 
  - Unit Description
+
+#### Stats
+
  - Unit Cost
  - Building from which the unit is trained, if not the Castle
  - Age availability, if not Castle Unique Unit
@@ -104,7 +169,15 @@
  - Elite Upgrade research building, if different from training building
  - Elite Unit Stats
    - Only stats which change from non-Elite
- - Note on Unique Unit
+
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
  - ...
 
 ### ...
@@ -112,6 +185,8 @@
 ## Unique Buildings
 
 ### Unique Building Name
+
+#### Stats
 
  - Building Cost
  - Build time with one villager
@@ -130,121 +205,300 @@
    - Special trait
    - ...
 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+ ### ...
 
 ## Tech Tree
 
- - Barracks:
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Archery Range
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Stable
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Siege Workshop
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Blacksmith
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Monastery
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Castle
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Market
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - University
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Dock
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Mill
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Lumber Camp
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
- - Mining Camp
-   - Missing unit line, upgrade or tech
-     - Note on design intent, justification, gameplay
-     - ...
-   - ...
-   - Note
-   - ...
+### Barracks:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Archery Range:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Stable:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Siege Workshop:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Blacksmith:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Monastery:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Castle:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Market:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### University:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Dock:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Mill:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Lumber Camp:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
+
+### Mining Camp:
+
+#### Availability 
+
+ - Missing common unit line, upgrade or tech
+ - ...
+ - Available regional unit line, upgrade or tech
+ - ...
+ 
+#### History
+
+ - Note on History
+ - ...
+
+#### Gameplay
+
+ - Note on Gameplay
+ - ...
 
 ## Architecture: Architecture Set Name
 
- - Castle Skin
+### Castle Skin
+
+  - Image
+  - Justification
+  - Note
+  - ...
+
+### Wonder Skin
+
+  - Image
+  - Justification
+  - Note
+  - ...
+
+### Monastery, if different from architecture set
+
+### Other unique building skin
+
    - Image
    - Justification
    - Note
    - ...
- - Wonder Skin
-   - Image
-   - Justification
-   - Note
-   - ...
- - Other unique building skin
-   - Image
-   - Justification
-   - Note
-   - ...
- - ...
- - Monastery, if different from architecture set
- - Monk
+
+### ...
+
+### Monk appearance
+
+### Trade Cart appearance
+
+### Notes
+
  - If Architecture Set is not a currently existing one, note on design, aesthetic, distinctiveness and recognizability
  - ...
 
